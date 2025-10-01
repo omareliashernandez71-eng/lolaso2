@@ -7974,3 +7974,56 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Oct2025 20:49:37.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Oct2025 20:54:37.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Oct2025 20:54:37.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 20:56:37.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bro los aldeanos
+[01Oct2025 20:56:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> llamenlo rapido
+[01Oct2025 20:59:08.728] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of megatuber06: {disabled=true, disconnected=false, uuid=a18aca8f-045d-3cb5-a34b-480e96829118, name=megatuber06, group=null}
+[01Oct2025 20:59:09.626] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of megatuber06: {disabled=false, disconnected=false, uuid=a18aca8f-045d-3cb5-a34b-480e96829118, name=megatuber06, group=null}
+[01Oct2025 20:59:37.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 20:59:37.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 20:59:56.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72525, l='ServerLevel[world]', x=255.29, y=57.00, z=389.47] died, message: 'Villager hit the ground too hard'
+[01Oct2025 21:04:37.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 21:04:37.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 21:05:40.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> volvi
+[01Oct2025 21:05:49.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ya estan casi todos}
+[01Oct2025 21:06:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> yo me encargo de los verdes
+[01Oct2025 21:06:14.346] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of megatuber06: {disabled=true, disconnected=false, uuid=a18aca8f-045d-3cb5-a34b-480e96829118, name=megatuber06, group=null}
+[01Oct2025 21:06:15.026] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of megatuber06: {disabled=false, disconnected=false, uuid=a18aca8f-045d-3cb5-a34b-480e96829118, name=megatuber06, group=null}
+[01Oct2025 21:06:19.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> voy a buscar mi cubo de lava
+[01Oct2025 21:06:33.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 moved too quickly! 6.769913778752198,3.3968318683140666,7.0885213268011285
+[01Oct2025 21:09:08.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/74981, l='ServerLevel[world]', x=251.92, y=56.00, z=387.30] died, message: 'Nitwit burned to death'
+[01Oct2025 21:09:12.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[01Oct2025 21:09:12.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[01Oct2025 21:09:12.063] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anubis_11
+[01Oct2025 21:09:12.063] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[01Oct2025 21:09:12.066] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.089] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.106] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.124] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.149] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.165] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.189] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.206] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.228] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.246] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.269] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.286] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.314] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.329] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:12.378] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[01Oct2025 21:09:37.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 21:09:37.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 21:14:37.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 21:14:37.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 21:18:54.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> VUELVO AHORA
+[01Oct2025 21:19:29.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek dame 5 min
+[01Oct2025 21:19:33.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> que estoy haciendo un trabajo
+[01Oct2025 21:19:37.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 21:19:37.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 21:24:12.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tengo lag
+[01Oct2025 21:24:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ya veo
+[01Oct2025 21:24:37.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 21:24:37.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 21:24:55.278] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of megatuber06: {disabled=true, disconnected=false, uuid=a18aca8f-045d-3cb5-a34b-480e96829118, name=megatuber06, group=null}
+[01Oct2025 21:24:55.883] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of megatuber06: {disabled=false, disconnected=false, uuid=a18aca8f-045d-3cb5-a34b-480e96829118, name=megatuber06, group=null}
+[01Oct2025 21:24:56.129] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of megatuber06: {disabled=true, disconnected=false, uuid=a18aca8f-045d-3cb5-a34b-480e96829118, name=megatuber06, group=null}
+[01Oct2025 21:24:59.062] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of megatuber06: {disabled=false, disconnected=false, uuid=a18aca8f-045d-3cb5-a34b-480e96829118, name=megatuber06, group=null}

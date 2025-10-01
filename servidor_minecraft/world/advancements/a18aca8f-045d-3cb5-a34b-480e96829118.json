@@ -887,7 +887,8 @@
       "cooked_mutton": "2025-10-01 00:40:28 +0000",
       "cooked_beef": "2025-10-01 19:20:34 +0000",
       "beef": "2025-10-01 00:17:59 +0000",
-      "mutton": "2025-10-01 00:19:03 +0000"
+      "mutton": "2025-10-01 00:19:03 +0000",
+      "bread": "2025-10-01 21:01:52 +0000"
     },
     "done": false
   },
@@ -2351,6 +2352,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-10-01 20:55:25 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/redstone/temperature_gauge": {
     "criteria": {
       "has_thermometer": "2025-10-01 20:48:46 +0000"
@@ -2393,6 +2400,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-10-01 20:55:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-10-01 20:45:15 +0000"
@@ -2432,6 +2445,12 @@
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-10-01 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-10-01 20:55:25 +0000"
     },
     "done": true
   },

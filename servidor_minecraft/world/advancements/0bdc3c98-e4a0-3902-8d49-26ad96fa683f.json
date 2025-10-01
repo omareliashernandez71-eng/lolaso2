@@ -3859,6 +3859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-01 21:04:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
       "has_glass_panes_colorless": "2025-10-01 20:16:51 +0000"
@@ -3895,6 +3901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-10-01 21:04:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-01 20:16:51 +0000"
@@ -3922,6 +3934,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-10-01 21:04:27 +0000"
     },
     "done": true
   },
@@ -4267,6 +4285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-01 21:04:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/yellow_lens": {
     "criteria": {
       "has_glass_pane": "2025-10-01 20:18:30 +0000"
@@ -4327,6 +4351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-10-01 21:04:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/acacia_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-10-01 20:51:47 +0000"
@@ -4375,6 +4405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-10-01 21:07:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_lever": {
     "criteria": {
       "has_cobble": "2025-10-01 20:38:02 +0000"
@@ -4420,6 +4456,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-01 21:04:27 +0000"
     },
     "done": true
   },
