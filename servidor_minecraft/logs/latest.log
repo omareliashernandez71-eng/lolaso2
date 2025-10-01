@@ -226,3 +226,63 @@
 [01Oct2025 23:11:00.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> igual
 [01Oct2025 23:11:22.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> yo voy a terminar con los aldeanos y creo que ire a mi base
 [01Oct2025 23:11:25.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
+[01Oct2025 23:11:35.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> omar
+[01Oct2025 23:11:48.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -7.951847660894941,1.0,-6.367270257527082
+[01Oct2025 23:11:59.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -1.3187082248066417,-10.0,-0.853123065944942
+[01Oct2025 23:12:02.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> estoy vaciando mi base quieres piedra?
+[01Oct2025 23:12:09.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> si
+[01Oct2025 23:12:12.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bro el gorro
+[01Oct2025 23:12:19.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> estoy en los arboles
+[01Oct2025 23:12:20.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> vne
+[01Oct2025 23:12:28.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> antes de irte a tu base devuelvemelo
+[01Oct2025 23:12:35.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si
+[01Oct2025 23:12:35.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> la deje en el cofre
+[01Oct2025 23:12:41.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! 8.758888890585013,0.08609407931551516,5.283916004942341
+[01Oct2025 23:12:42.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 was kicked for floating too long!
+[01Oct2025 23:12:42.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Flying is not enabled on this server
+[01Oct2025 23:12:42.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[01Oct2025 23:12:42.897] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[01Oct2025 23:12:46.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lol
+[01Oct2025 23:12:58.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ta critico
+[01Oct2025 23:13:04.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> oye muchacho
+[01Oct2025 23:15:04.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:33705] logged in with entity id 11369 at (272.4000625298318, 66.24918707874468, 400.7531800144494)
+[01Oct2025 23:15:04.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[01Oct2025 23:15:06.300] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[01Oct2025 23:15:06.300] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[01Oct2025 23:15:27.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[01Oct2025 23:15:27.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[01Oct2025 23:15:27.144] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[01Oct2025 23:18:06.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duerme
+[01Oct2025 23:18:10.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> tt
+[01Oct2025 23:18:31.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> w
+[01Oct2025 23:20:42.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:51527] logged in with entity id 13651 at (272.4000625298318, 65.10408037809304, 400.7531800144494)
+[01Oct2025 23:20:42.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[01Oct2025 23:20:44.150] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[01Oct2025 23:20:44.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[01Oct2025 23:21:01.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -9.780940792220235,0.0,-2.462982113145756
+[01Oct2025 23:21:03.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[01Oct2025 23:21:08.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[01Oct2025 23:21:08.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[01Oct2025 23:21:12.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -3.258814379558771,0.7531999805212024,-9.607499187226267
+[01Oct2025 23:21:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> omar donde estas??
+[01Oct2025 23:21:16.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> voy para la aldea
+[01Oct2025 23:21:27.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
+[01Oct2025 23:21:55.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -0.8787798912985068,-10.0,0.11500610226249819
+[01Oct2025 23:22:22.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! 8.484589961358978,1.0013359791121488,5.389145287109102
+[01Oct2025 23:22:26.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 was kicked for floating too long!
+[01Oct2025 23:22:26.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Flying is not enabled on this server
+[01Oct2025 23:22:26.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[01Oct2025 23:22:26.543] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[01Oct2025 23:22:27.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> toma
+[01Oct2025 23:22:33.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lolaso
+[01Oct2025 23:22:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ya ni lo voy a intentar
+[01Oct2025 23:22:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ajajaj
+[01Oct2025 23:23:02.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> bro
+[01Oct2025 23:23:07.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> como conseguimos la aldesita
+[01Oct2025 23:23:08.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> q
+[01Oct2025 23:23:10.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> osea de forma rapida
+[01Oct2025 23:23:20.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ni idea bro
+[01Oct2025 23:28:40.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> wduerman niggers
+[01Oct2025 23:28:48.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> estamos solos bro
+[01Oct2025 23:28:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lolaso
+[01Oct2025 23:29:58.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duerme
