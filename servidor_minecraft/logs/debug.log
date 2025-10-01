@@ -7958,3 +7958,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Oct2025 20:44:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> gracios dios
 [01Oct2025 20:44:37.913] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Oct2025 20:44:37.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 20:45:22.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> el que ponga una mina en mi base se va follado y de paso estamos en paz de la primera semana
+[01Oct2025 20:45:29.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> paz
+[01Oct2025 20:45:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> recuerdate
+[01Oct2025 20:45:33.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> 3 dias de paz
+[01Oct2025 20:45:39.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[01Oct2025 20:45:39.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[01Oct2025 20:45:39.223] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of emilghj
+[01Oct2025 20:45:39.223] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[01Oct2025 20:45:40.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> jeremy ya se murio y de to
+[01Oct2025 20:45:45.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> pero paz
+[01Oct2025 20:49:22.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> omar bro como vas?
+[01Oct2025 20:49:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> bien
+[01Oct2025 20:49:37.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 20:49:37.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 20:54:37.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 20:54:37.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
