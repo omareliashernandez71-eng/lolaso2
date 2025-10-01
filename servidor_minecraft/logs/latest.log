@@ -1,639 +1,158 @@
-[01Oct2025 18:53:54.485] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[01Oct2025 18:53:54.489] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[01Oct2025 18:53:56.801] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[01Oct2025 18:53:56.884] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/lolaso2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[01Oct2025 18:53:57.245] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[01Oct2025 18:53:57.248] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Oct2025 18:53:57.249] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Oct2025 18:53:57.250] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[01Oct2025 18:53:57.644] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[01Oct2025 18:53:59.800] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[01Oct2025 18:53:59.914] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[01Oct2025 18:53:59.916] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[01Oct2025 18:54:01.177] [main/WARN] [mixin/]: Error loading class: com/theishiopian/parrying/Entity/DaggerEntity (java.lang.ClassNotFoundException: com.theishiopian.parrying.Entity.DaggerEntity)
-[01Oct2025 18:54:01.179] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/guns/common/Gun (java.lang.ClassNotFoundException: com.mrcrayfish.guns.common.Gun)
-[01Oct2025 18:54:01.181] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/guns/item/GunItem (java.lang.ClassNotFoundException: com.mrcrayfish.guns.item.GunItem)
-[01Oct2025 18:54:01.182] [main/WARN] [mixin/]: Error loading class: slimeknights/tconstruct/tools/item/ModifiableBowItem (java.lang.ClassNotFoundException: slimeknights.tconstruct.tools.item.ModifiableBowItem)
-[01Oct2025 18:54:01.184] [main/WARN] [mixin/]: Error loading class: slimeknights/tconstruct/tools/item/ModifiableCrossbowItem (java.lang.ClassNotFoundException: slimeknights.tconstruct.tools.item.ModifiableCrossbowItem)
-[01Oct2025 18:54:01.185] [main/WARN] [mixin/]: Error loading class: com/theishiopian/parrying/Entity/SpearEntity (java.lang.ClassNotFoundException: com.theishiopian.parrying.Entity.SpearEntity)
-[01Oct2025 18:54:01.186] [main/WARN] [mixin/]: Error loading class: net/bettercombat/logic/WeaponRegistry (java.lang.ClassNotFoundException: net.bettercombat.logic.WeaponRegistry)
-[01Oct2025 18:54:01.475] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01Oct2025 18:54:07.448] [main/WARN] [mixin/]: @Final field f_35975_:Lnet/minecraft/core/NonNullList; in weaponleveling-common.mixins.json:InventoryMixin should be final
-[01Oct2025 18:54:08.362] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[01Oct2025 18:54:08.401] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[01Oct2025 18:54:08.413] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
-[01Oct2025 18:54:08.664] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[01Oct2025 18:54:08.667] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[01Oct2025 18:54:08.672] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[01Oct2025 18:54:08.675] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[01Oct2025 18:54:08.678] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[01Oct2025 18:54:08.679] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[01Oct2025 18:54:08.683] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[01Oct2025 18:54:08.685] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[01Oct2025 18:54:09.266] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[01Oct2025 18:54:09.269] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[01Oct2025 18:54:09.270] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[01Oct2025 18:54:12.165] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 20
-[01Oct2025 18:54:12.334] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[01Oct2025 18:54:12.339] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[01Oct2025 18:54:12.339] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[01Oct2025 18:54:12.340] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[01Oct2025 18:54:12.460] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[01Oct2025 18:54:12.462] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[01Oct2025 18:54:12.464] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[01Oct2025 18:54:12.464] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[01Oct2025 18:54:12.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[01Oct2025 18:54:13.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
-[01Oct2025 18:54:13.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[01Oct2025 18:54:13.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[01Oct2025 18:54:13.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[01Oct2025 18:54:13.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.6.4 Target: null
-[01Oct2025 18:54:13.790] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[01Oct2025 18:54:13.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[01Oct2025 18:54:15.410] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01Oct2025 18:54:17.140] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/lolaso2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
-[01Oct2025 18:54:17.141] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/lolaso2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
-[01Oct2025 18:54:17.267] [main/INFO] [com.simibubi.create.Create/]: Created 255 recipes which will be injected into the game
-[01Oct2025 18:54:17.280] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
-[01Oct2025 18:54:18.140] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[01Oct2025 18:54:20.010] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
-[01Oct2025 18:54:20.129] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3293 advancements
-[01Oct2025 18:54:20.138] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[01Oct2025 18:54:20.145] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[01Oct2025 18:54:21.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[01Oct2025 18:54:21.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01Oct2025 18:54:21.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01Oct2025 18:54:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01Oct2025 18:54:21.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[01Oct2025 18:54:21.919] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[01Oct2025 18:54:21.999] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01Oct2025 18:54:21.999] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[01Oct2025 18:54:22.000] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01Oct2025 18:54:22.000] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[01Oct2025 18:54:22.091] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[01Oct2025 18:54:22.092] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[01Oct2025 18:54:22.094] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[01Oct2025 18:54:22.123] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[01Oct2025 18:54:22.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[01Oct2025 18:54:25.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01Oct2025 18:54:28.202] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:28.289] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:28.305] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:28.306] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:28.308] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:28.309] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:28.453] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:28.939] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:29.437] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:29.936] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:30.436] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:30.937] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[01Oct2025 18:54:31.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[01Oct2025 18:54:31.935] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[01Oct2025 18:54:32.274] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6840 ms
-[01Oct2025 18:54:32.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.263s)! For help, type "help"
-[01Oct2025 18:54:32.380] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[01Oct2025 18:54:32.385] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
-[01Oct2025 18:54:32.387] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01Oct2025 18:54:32.398] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'estate-enclosure.gl.at.ply.gg'
-[01Oct2025 18:54:32.399] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 6712
-[01Oct2025 18:54:46.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.48.206.10:54259] logged in with entity id 102 at (374.30000001192093, 64.0, 584.7999829399581)
-[01Oct2025 18:54:46.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
-[01Oct2025 18:54:49.399] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
-[01Oct2025 18:54:49.401] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
-[01Oct2025 18:54:49.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
-[01Oct2025 18:54:51.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
-[01Oct2025 18:54:52.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
-[01Oct2025 18:54:52.638] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
-[01Oct2025 18:54:59.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
-[01Oct2025 18:54:59.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
-[01Oct2025 18:54:59.270] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
-[01Oct2025 18:55:29.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.48.206.10:49785] logged in with entity id 576 at (374.30000001192093, 64.0, 584.7999829399581)
-[01Oct2025 18:55:29.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
-[01Oct2025 18:55:30.028] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
-[01Oct2025 18:55:30.029] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
-[01Oct2025 18:55:31.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
-[01Oct2025 18:55:32.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
-[01Oct2025 18:55:32.153] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
-[01Oct2025 19:01:51.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.137.204.25:55005] logged in with entity id 3296 at (248.79363116288192, 65.0, 337.9704113003109)
-[01Oct2025 19:01:51.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
-[01Oct2025 19:01:51.981] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
-[01Oct2025 19:01:51.982] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
-[01Oct2025 19:01:56.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
-[01Oct2025 19:01:57.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
-[01Oct2025 19:01:57.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
-[01Oct2025 19:02:17.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> grupo
-[01Oct2025 19:02:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> tt
-[01Oct2025 19:10:38.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@12cde7d1[id=<null>,name=megatuber06,properties={},legacy=false] (/127.84.184.127:42791) lost connection: Internal Exception: java.util.ConcurrentModificationException
-[01Oct2025 19:11:14.018] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33b628e[id=<null>,name=megatuber06,properties={},legacy=false] (/127.84.184.127:46199) lost connection: Disconnected
-[01Oct2025 19:11:35.721] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7fc605ac[id=<null>,name=megatuber06,properties={},legacy=false] (/127.84.184.127:59879) lost connection: Disconnected
-[01Oct2025 19:14:45.673] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:54803] logged in with entity id 7795 at (-1079.166530209603, 64.0625, 235.12231815382606)
-[01Oct2025 19:14:45.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
-[01Oct2025 19:14:48.627] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
-[01Oct2025 19:14:48.628] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
-[01Oct2025 19:14:48.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
-[01Oct2025 19:14:50.098] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 19:14:51.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 19:14:51.190] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
-[01Oct2025 19:14:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> wey
-[01Oct2025 19:15:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> dimelo
-[01Oct2025 19:15:11.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3344, l='ServerLevel[world]', x=220.57, y=63.00, z=344.55] died, message: 'Villager was slain by Zombie'
-[01Oct2025 19:15:13.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> caiganle a 40000 -400000000
-[01Oct2025 19:15:17.312] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3341, l='ServerLevel[world]', x=214.44, y=63.00, z=347.51] died, message: 'Villager was slain by Zombie'
-[01Oct2025 19:15:17.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> porfis
-[01Oct2025 19:15:20.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tu ta crazy fiera
-[01Oct2025 19:15:28.510] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3342, l='ServerLevel[world]', x=220.70, y=62.53, z=342.33] died, message: 'Villager was slain by Zombie'
-[01Oct2025 19:15:42.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tu internet bro
-[01Oct2025 19:15:46.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> yo se
-[01Oct2025 19:15:49.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3340, l='ServerLevel[world]', x=219.44, y=63.00, z=342.57] died, message: 'Villager was slain by Zombie'
-[01Oct2025 19:15:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ve y juega al lado del router
-[01Oct2025 19:16:11.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3343, l='ServerLevel[world]', x=220.71, y=63.27, z=343.17] died, message: 'Villager was slain by Zombie'
-[01Oct2025 19:16:39.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3339, l='ServerLevel[world]', x=222.18, y=63.00, z=342.49] died, message: 'Villager was slain by Zombie'
-[01Oct2025 19:16:54.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> tu ta loucou
-[01Oct2025 19:17:04.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ya se te esta mejorando
-[01Oct2025 19:18:00.165] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7831, l='ServerLevel[world]', x=-1077.50, y=64.00, z=229.70] died, message: 'Villager was slain by Zombie'
-[01Oct2025 19:18:33.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> que haces?
-[01Oct2025 19:18:42.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> literalmente nada bro
-[01Oct2025 19:18:50.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ven pa la aldea entonces
-[01Oct2025 19:18:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> tengo que terminar de saquear esta aldea y despues a ver si voy
-[01Oct2025 19:19:08.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> dejenme busco un sitio para mi casita
-[01Oct2025 19:19:27.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> no way que tu vas a vivir para alla
-[01Oct2025 19:19:35.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> pues si te vas a vivir pa alla mejor quedate por alla
-[01Oct2025 19:19:42.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> oh
-[01Oct2025 19:19:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> Tt
-[01Oct2025 19:19:52.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> TNT pa ti tambien
-[01Oct2025 19:20:01.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> pero lo digo de bien bro
-[01Oct2025 19:20:06.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> yo se bro
-[01Oct2025 19:20:07.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> e vas a ahorrar 3000 bloques
-[01Oct2025 19:20:10.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> en verda
-[01Oct2025 19:20:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> yo me voy a hacer la casa por aqui leeeejos
-[01Oct2025 19:21:17.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> yo estoy empezando ya con el create
-[01Oct2025 19:21:25.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> noooo
-[01Oct2025 19:21:29.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> malditaaaa
-[01Oct2025 19:21:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> llevamos un focking dia
-[01Oct2025 19:21:35.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> JAJAJAJAJA
-[01Oct2025 19:21:40.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> estoy haciendo lo basico
-[01Oct2025 19:21:50.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> solo la pensa
-[01Oct2025 19:21:54.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> que es lo esencial
-[01Oct2025 19:21:59.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> prensa*
-[01Oct2025 19:26:16.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek
-[01Oct2025 19:26:18.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> jodete
-[01Oct2025 19:26:25.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok bro
-[01Oct2025 19:26:27.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> besitos
-[01Oct2025 19:26:41.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> igual
-[01Oct2025 19:26:51.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> emil pasa cords
-[01Oct2025 19:27:26.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> xaero-waypoint:lolasio:L:277:66:331:8:false:0:Internal-overworld-waypoints
-[01Oct2025 19:27:34.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> pero y no es enserio
-[01Oct2025 19:27:41.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ya saben a raidear a emil
-[01Oct2025 19:27:43.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lolasio
-[01Oct2025 19:27:57.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> tu ta cerca de cero cero bro
-[01Oct2025 19:27:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> esta es la aldea bru
-[01Oct2025 19:28:01.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> oh ya
-[01Oct2025 19:29:01.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [The Andesite Age]
-[01Oct2025 19:29:11.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok bro
-[01Oct2025 19:29:14.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ?
-[01Oct2025 19:29:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok bro
-[01Oct2025 19:30:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zzzzzzzzzz
-[01Oct2025 19:30:39.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zzzzzzzzz
-[01Oct2025 19:30:47.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zzzzzzzzzzzz
-[01Oct2025 19:30:47.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzzzz
-[01Oct2025 19:30:48.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzz
-[01Oct2025 19:30:49.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzz
-[01Oct2025 19:30:49.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zzzzzzzzzz
-[01Oct2025 19:33:35.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Bonk!]
-[01Oct2025 19:39:56.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zarek
-[01Oct2025 19:40:04.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> klk?
-[01Oct2025 19:40:11.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> muere zorra
-[01Oct2025 19:40:19.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok bro
-[01Oct2025 19:40:27.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tttttttt
-[01Oct2025 19:40:40.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:36463] logged in with entity id 23154 at (386.69999998807907, 26.0, 351.7650773604148)
-[01Oct2025 19:40:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
-[01Oct2025 19:40:41.098] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
-[01Oct2025 19:40:41.098] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
-[01Oct2025 19:40:44.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:40:44.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> te pase las coordenadas para q vengas y te queda hay pussy
-[01Oct2025 19:40:45.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:40:45.348] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
-[01Oct2025 19:40:49.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ya salganse chicos
-[01Oct2025 19:40:55.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> llego jeremy
-[01Oct2025 19:40:56.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> tt
-[01Oct2025 19:41:01.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> broooo
-[01Oct2025 19:41:04.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> luego voy
-[01Oct2025 19:41:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> broooooooooo
-[01Oct2025 19:41:13.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> hola broskys
-[01Oct2025 19:41:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> hola cro
-[01Oct2025 19:41:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ven al grupo
-[01Oct2025 19:41:33.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> voy
-[01Oct2025 19:41:53.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zzzzzzzzzzz
-[01Oct2025 19:42:06.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zzzzzzzzzz
-[01Oct2025 19:42:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duermaaaan
-[01Oct2025 19:42:34.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> no pueden dormir?
-[01Oct2025 19:42:43.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> no
-[01Oct2025 19:43:14.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> jeremy sal de un prontico
-[01Oct2025 19:43:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzzzzz
-[01Oct2025 19:43:28.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzzzzzzzzz
-[01Oct2025 19:43:29.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzzzzzzzzzzz
-[01Oct2025 19:43:30.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzzzzzzzzzz
-[01Oct2025 19:43:31.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzzz
-[01Oct2025 19:43:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzz
-[01Oct2025 19:43:33.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzz
-[01Oct2025 19:43:33.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zz
-[01Oct2025 19:43:34.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zz
-[01Oct2025 19:43:35.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duerman
-[01Oct2025 19:43:35.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzz
-[01Oct2025 19:43:36.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:37.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzz
-[01Oct2025 19:43:37.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zzzzzzzzzzzzz
-[01Oct2025 19:43:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:37.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:37.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:38.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:38.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzzzzzzzzzzz
-[01Oct2025 19:43:38.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:38.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zz
-[01Oct2025 19:43:38.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zz
-[01Oct2025 19:43:38.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:39.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:39.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:39.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:39.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:39.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:39.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:39.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:39.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:39.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:39.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:43:39.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Kicked for spamming
-[01Oct2025 19:43:39.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
-[01Oct2025 19:43:39.933] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
-[01Oct2025 19:43:39.987] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[01Oct2025 19:43:39.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:40.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
-[01Oct2025 19:43:40.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Kicked for spamming
-[01Oct2025 19:43:40.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
-[01Oct2025 19:43:40.176] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
-[01Oct2025 19:43:47.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.48.206.10:54047] logged in with entity id 27042 at (377.5, 64.0, 577.5)
-[01Oct2025 19:43:47.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
-[01Oct2025 19:43:48.123] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
-[01Oct2025 19:43:48.124] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
-[01Oct2025 19:43:50.219] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
-[01Oct2025 19:43:51.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
-[01Oct2025 19:43:51.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
-[01Oct2025 19:43:53.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> eeeeeeh
-[01Oct2025 19:43:57.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ati tmb zarek
-[01Oct2025 19:43:59.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> verdad?
-[01Oct2025 19:44:01.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:37937] logged in with entity id 27404 at (-2886.5, 63.0, -165.5)
-[01Oct2025 19:44:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
-[01Oct2025 19:44:02.208] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
-[01Oct2025 19:44:02.209] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
-[01Oct2025 19:44:02.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> ya
-[01Oct2025 19:44:03.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 19:44:04.314] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 19:44:04.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
-[01Oct2025 19:44:04.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> duerman
-[01Oct2025 19:44:09.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek
-[01Oct2025 19:44:11.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> LOLASO
-[01Oct2025 19:44:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tmb me paso
-[01Oct2025 19:45:14.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> omar vc bro
-[01Oct2025 19:46:22.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> omar vc grupo
-[01Oct2025 19:46:45.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
-[01Oct2025 19:46:45.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
-[01Oct2025 19:46:45.687] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
-[01Oct2025 19:47:50.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:46093] logged in with entity id 31252 at (401.6958538913765, 19.0, 347.7825509896519)
-[01Oct2025 19:47:50.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
-[01Oct2025 19:47:50.602] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
-[01Oct2025 19:47:50.602] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
-[01Oct2025 19:47:52.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:47:53.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:47:53.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
-[01Oct2025 19:48:40.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
-[01Oct2025 19:48:40.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
-[01Oct2025 19:48:40.928] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
-[01Oct2025 19:50:11.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:43909] logged in with entity id 32982 at (400.35733282243405, 17.0, 349.69999998807907)
-[01Oct2025 19:50:11.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
-[01Oct2025 19:50:11.273] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
-[01Oct2025 19:50:11.274] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
-[01Oct2025 19:50:12.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:50:13.608] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:50:13.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
-[01Oct2025 19:50:25.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
-[01Oct2025 19:50:25.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
-[01Oct2025 19:50:25.676] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
-[01Oct2025 19:52:33.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a18aca8f-045d-3cb5-a34b-480e96829118 timed out
-[01Oct2025 19:52:33.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player megatuber06
-[01Oct2025 19:52:33.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
-[01Oct2025 19:52:47.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
-[01Oct2025 19:52:47.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
-[01Oct2025 19:52:47.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
-[01Oct2025 19:52:50.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:43843] logged in with entity id 34599 at (400.69999998807907, 17.0, 349.2611678658692)
-[01Oct2025 19:52:50.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
-[01Oct2025 19:52:50.984] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
-[01Oct2025 19:52:50.984] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
-[01Oct2025 19:52:54.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:52:55.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:52:55.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
-[01Oct2025 19:53:02.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:42863] logged in with entity id 34860 at (-3434.100976989023, 62.0, 104.27549820763488)
-[01Oct2025 19:53:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
-[01Oct2025 19:53:03.663] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
-[01Oct2025 19:53:03.664] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
-[01Oct2025 19:53:06.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 19:53:07.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 19:53:07.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
-[01Oct2025 19:53:48.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 fell from a high place
-[01Oct2025 19:53:57.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! 1.0136722058045962,-1.4199999868869781,9.920177698609791
-[01Oct2025 19:54:37.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=69, z=447} BlockPos{x=456, y=67, z=447}
-[01Oct2025 19:54:37.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=69, z=447} BlockPos{x=456, y=67, z=447}
-[01Oct2025 19:55:43.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> duerman no sean putis ni perras
-[01Oct2025 19:55:52.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> por que no entras al vc?
-[01Oct2025 19:55:55.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zzzzzz
-[01Oct2025 19:55:56.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> lag
-[01Oct2025 19:55:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
-[01Oct2025 19:55:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzz
-[01Oct2025 19:56:44.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> DUERMAN
-[01Oct2025 19:56:46.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> MMMG
-[01Oct2025 19:56:54.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
-[01Oct2025 19:56:54.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
-[01Oct2025 19:56:54.571] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
-[01Oct2025 19:56:56.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> salte analubis
-[01Oct2025 19:57:22.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:42507] logged in with entity id 38273 at (452.71038160393255, -20.0, 339.52121612640406)
-[01Oct2025 19:57:22.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
-[01Oct2025 19:57:22.566] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
-[01Oct2025 19:57:22.566] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
-[01Oct2025 19:57:23.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:57:24.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
-[01Oct2025 19:57:24.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
-[01Oct2025 19:57:39.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 moved wrongly!
-[01Oct2025 19:58:01.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Hot Stuff]
-[01Oct2025 20:05:38.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> como en 20 min voy para donde ustedes
-[01Oct2025 20:08:04.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> como vas zarek?
-[01Oct2025 20:08:13.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ya encontre donde hacer la casa
-[01Oct2025 20:08:38.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> voy ahorita a donde utds
-[01Oct2025 20:08:42.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
-[01Oct2025 20:08:47.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> cuando vengas ayudanos con los aldeanos
-[01Oct2025 20:09:23.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[01Oct2025 20:09:33.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> emil no se escucha
-[01Oct2025 20:09:45.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> voy
-[01Oct2025 20:11:03.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duerman
-[01Oct2025 20:11:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> zzz
-[01Oct2025 20:11:23.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Anubis_11 se anda haciendo la paja
-[01Oct2025 20:11:40.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> y ese mote
-[01Oct2025 20:11:50.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> no se
-[01Oct2025 20:13:44.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> estoy de camino
-[01Oct2025 20:13:50.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
-[01Oct2025 20:13:55.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> cualquier vaina proximity chat
-[01Oct2025 20:14:00.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> dale
-[01Oct2025 20:14:25.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> vamos a hablar por proximity
-[01Oct2025 20:14:31.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> oiste zarek
-[01Oct2025 20:14:38.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si
-[01Oct2025 20:15:54.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 moved too quickly! 9.483275603313814,1.4983999884128565,4.004514389891426
-[01Oct2025 20:16:48.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lolasio
-[01Oct2025 20:17:00.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> dondew
-[01Oct2025 20:18:28.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> emil
-[01Oct2025 20:18:32.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> q
-[01Oct2025 20:19:44.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> regrese
-[01Oct2025 20:22:23.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> aplaudan las prostitutas
-[01Oct2025 20:22:36.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> clap
-[01Oct2025 20:22:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ya yo sabia
-[01Oct2025 20:23:09.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> dense rapido jeremy y zarek para empezar con los aldeanos
-[01Oct2025 20:23:16.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duerman
-[01Oct2025 20:23:17.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 moved too quickly! 3.334541793543906,4.03509871790169,8.910110249867671
-[01Oct2025 20:23:25.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bro no ves que estoy en las farlands
-[01Oct2025 20:23:27.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> gracias bro
-[01Oct2025 20:23:31.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> dame un ratito
-[01Oct2025 20:23:33.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> verdad
-[01Oct2025 20:23:40.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> me avisan me voy a salir
-[01Oct2025 20:23:41.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> nah yo los esperos
-[01Oct2025 20:23:42.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
-[01Oct2025 20:23:42.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
-[01Oct2025 20:23:42.729] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
-[01Oct2025 20:23:54.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> jeremy duerme
-[01Oct2025 20:24:23.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> ya
-[01Oct2025 20:24:34.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> que ando en apocalipsis z
-[01Oct2025 20:24:38.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> duerman rapidooo
-[01Oct2025 20:24:39.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> me fui a dormi
-[01Oct2025 20:24:44.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> que me muerouuuuuuu
-[01Oct2025 20:24:47.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> rptm
-[01Oct2025 20:24:56.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:54299] logged in with entity id 61417 at (-1312.678785856138, 62.073264324665075, 464.00158442309777)
-[01Oct2025 20:24:56.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
-[01Oct2025 20:24:57.128] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
-[01Oct2025 20:24:57.129] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
-[01Oct2025 20:24:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ok me voy al gym
-[01Oct2025 20:24:58.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 20:24:59.702] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 20:24:59.703] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
-[01Oct2025 20:25:03.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> bye
-[01Oct2025 20:25:07.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> bye
-[01Oct2025 20:25:10.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Anubis_11 se hace la paja al despertarse
-[01Oct2025 20:25:11.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 moved too quickly! -0.32634924146702815,5.661433331115504,8.3801181015466
-[01Oct2025 20:25:13.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> pasa culonas
-[01Oct2025 20:25:14.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> bye bro
-[01Oct2025 20:25:17.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bye bro
-[01Oct2025 20:25:43.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> bueno avisen ustedes para los aldeanos
-[01Oct2025 20:26:52.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ok voy a estar aqui hasta q llegue el taxi
-[01Oct2025 20:28:40.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarekonsio
-[01Oct2025 20:28:48.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> toy cerca
-[01Oct2025 20:28:52.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> nono
-[01Oct2025 20:28:55.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> que si te duele
-[01Oct2025 20:28:59.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> eh?
-[01Oct2025 20:29:08.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> si o no
-[01Oct2025 20:29:09.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> rapido
-[01Oct2025 20:29:13.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no bro
-[01Oct2025 20:29:18.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> el q?
-[01Oct2025 20:29:24.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> si o no
-[01Oct2025 20:29:36.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> voy
-[01Oct2025 20:30:00.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
-[01Oct2025 20:30:00.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
-[01Oct2025 20:30:00.481] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
-[01Oct2025 20:30:07.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:38267] logged in with entity id 67079 at (-129.54276954225767, 63.08576431274413, 361.3808465509994)
-[01Oct2025 20:30:07.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
-[01Oct2025 20:30:07.953] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
-[01Oct2025 20:30:07.954] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
-[01Oct2025 20:30:10.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 20:30:11.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 20:30:11.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
-[01Oct2025 20:30:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> omar
-[01Oct2025 20:30:47.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> dime
-[01Oct2025 20:30:50.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> estoy en la aldea
-[01Oct2025 20:30:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> algo anda mal?
-[01Oct2025 20:30:56.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of megatuber06) moved too quickly! 2.1158151984897415,0.0,10.139776618019084
-[01Oct2025 20:30:56.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of megatuber06) moved too quickly! 2.2032980268950553,0.0,10.529273367439998
-[01Oct2025 20:30:56.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of megatuber06) moved too quickly! 2.2877803715326763,0.0,10.919404760121665
-[01Oct2025 20:30:56.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of megatuber06) moved too quickly! 2.3691292987413988,0.0,11.310167830437251
-[01Oct2025 20:30:56.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of megatuber06) moved too quickly! 2.4472702055920763,0.0,11.701549523213487
-[01Oct2025 20:30:56.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of megatuber06) moved too quickly! 2.52217357814186,0.0,12.093529926683516
-[01Oct2025 20:31:02.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> broooo
-[01Oct2025 20:31:03.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> brocheta
-[01Oct2025 20:31:05.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> jajajaj]
-[01Oct2025 20:31:10.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> que vro
-[01Oct2025 20:31:17.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lolasoooo
-[01Oct2025 20:31:53.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> pero diganme desgraciados
-[01Oct2025 20:32:07.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] * Anubis_11 se hace la paja con hannapunzell
-[01Oct2025 20:32:12.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> bro...
-[01Oct2025 20:32:13.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> qqqqq
-[01Oct2025 20:32:14.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no se que tecla era
-[01Oct2025 20:33:24.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 moved too quickly! -8.624596875251797,3.690259212927373,-3.619722936199082
-[01Oct2025 20:33:43.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> hay alguien?
-[01Oct2025 20:33:47.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> si
-[01Oct2025 20:33:47.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> si
-[01Oct2025 20:33:51.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> yo bro
-[01Oct2025 20:33:59.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> donde tu estas?
-[01Oct2025 20:34:16.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> en la aldea bro
-[01Oct2025 20:34:51.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> jeremy donde estas
-[01Oct2025 20:39:55.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 was slain by xClas06
-[01Oct2025 20:39:57.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Amateur Archaeologist]
-[01Oct2025 20:40:02.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> mmmmmmmmmmmmmmg
-[01Oct2025 20:40:05.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> JAJJAJAJAJA
-[01Oct2025 20:40:25.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> jeremy me lo llevo todo bro tu tranquilo
-[01Oct2025 20:40:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ya nos robamos todo
-[01Oct2025 20:40:38.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> mir mmg
-[01Oct2025 20:40:47.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tiene 1min para volver
-[01Oct2025 20:43:41.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> mmg
-[01Oct2025 20:43:45.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
-[01Oct2025 20:43:45.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
-[01Oct2025 20:43:45.316] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
-[01Oct2025 20:43:48.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> duerman
-[01Oct2025 20:44:02.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:60313] logged in with entity id 74497 at (366.69999998807907, 64.0, 598.0693642903857)
-[01Oct2025 20:44:02.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
-[01Oct2025 20:44:02.191] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
-[01Oct2025 20:44:02.192] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
-[01Oct2025 20:44:05.037] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 20:44:06.088] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
-[01Oct2025 20:44:06.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
-[01Oct2025 20:44:28.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> me voy niggers
-[01Oct2025 20:44:32.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> alfin
-[01Oct2025 20:44:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> gracios dios
-[01Oct2025 20:45:22.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> el que ponga una mina en mi base se va follado y de paso estamos en paz de la primera semana
-[01Oct2025 20:45:29.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> paz
-[01Oct2025 20:45:31.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> recuerdate
-[01Oct2025 20:45:33.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> 3 dias de paz
-[01Oct2025 20:45:39.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
-[01Oct2025 20:45:39.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
-[01Oct2025 20:45:39.223] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
-[01Oct2025 20:45:40.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> jeremy ya se murio y de to
-[01Oct2025 20:45:45.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> pero paz
-[01Oct2025 20:49:22.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> omar bro como vas?
-[01Oct2025 20:49:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> bien
-[01Oct2025 20:56:37.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bro los aldeanos
-[01Oct2025 20:56:44.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> llamenlo rapido
-[01Oct2025 20:59:56.305] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72525, l='ServerLevel[world]', x=255.29, y=57.00, z=389.47] died, message: 'Villager hit the ground too hard'
-[01Oct2025 21:05:40.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> volvi
-[01Oct2025 21:05:49.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ya estan casi todos}
-[01Oct2025 21:06:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> yo me encargo de los verdes
-[01Oct2025 21:06:19.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> voy a buscar mi cubo de lava
-[01Oct2025 21:06:33.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 moved too quickly! 6.769913778752198,3.3968318683140666,7.0885213268011285
-[01Oct2025 21:09:08.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/74981, l='ServerLevel[world]', x=251.92, y=56.00, z=387.30] died, message: 'Nitwit burned to death'
-[01Oct2025 21:09:12.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
-[01Oct2025 21:09:12.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
-[01Oct2025 21:09:12.063] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
-[01Oct2025 21:18:54.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> VUELVO AHORA
-[01Oct2025 21:19:29.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek dame 5 min
-[01Oct2025 21:19:33.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> que estoy haciendo un trabajo
-[01Oct2025 21:24:12.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tengo lag
-[01Oct2025 21:24:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ya veo
-[01Oct2025 21:25:49.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [What a Deal!]
-[01Oct2025 21:31:09.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> que hay para ma;ana?
-[01Oct2025 21:31:14.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> simona
-[01Oct2025 21:31:22.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> y la expo de ingles no?
-[01Oct2025 21:31:24.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si
-[01Oct2025 21:31:27.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
-[01Oct2025 21:33:43.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek
-[01Oct2025 21:33:45.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> reparacion
-[01Oct2025 21:33:48.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> me sale a 1 esmeralda
-[01Oct2025 21:33:51.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> por el sombrero
-[01Oct2025 21:33:53.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> lo cojo?
-[01Oct2025 21:33:59.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> pero claro bro
-[01Oct2025 21:34:19.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> te llevo la madera ahora
-[01Oct2025 21:34:25.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> coje la madera pa ti
-[01Oct2025 21:34:34.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
-[01Oct2025 21:35:40.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> voy a poner a reproducir a los aldeanos
-[01Oct2025 21:35:51.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> dejame verlo bro
-[01Oct2025 21:35:54.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> sube un video
-[01Oct2025 21:35:57.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 moved too quickly! 1.425109789046985,-0.1875,10.070888057648574
-[01Oct2025 21:35:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> LAG
-[01Oct2025 21:36:11.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 moved too quickly! 2.0623148856332705,4.663593751183328,-9.126346011107955
-[01Oct2025 21:36:13.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> esta critico bro
-[01Oct2025 21:36:17.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> pero claritene
-[01Oct2025 21:36:56.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 moved too quickly! -10.1719500498954,0.0,-0.7893253155181128
-[01Oct2025 21:37:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tengo demasiado lag
-[01Oct2025 21:37:59.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> a cuanto te sale el libro a ti?
-[01Oct2025 21:40:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> 20
-[01Oct2025 21:41:19.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duerme
-[01Oct2025 21:41:27.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> voy
-[01Oct2025 21:42:28.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [What a Deal!]
-[01Oct2025 21:43:48.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> que haces?
-[01Oct2025 21:43:58.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> estaba mirando algo
-[01Oct2025 21:43:59.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> yo creo que voy a farmear todos los encantamientos que pueda
-[01Oct2025 21:44:20.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> esta bien voy a ver si se le resetean los trades a los aldeanos
-[01Oct2025 21:44:25.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
-[01Oct2025 21:44:39.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> prestame tu libro de repa
-[01Oct2025 21:44:44.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> baja
-[01Oct2025 21:45:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> y el yunque
-[01Oct2025 21:45:30.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> donde hay?
-[01Oct2025 21:45:40.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> olvidao
-[01Oct2025 21:45:43.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> toma
-[01Oct2025 21:45:43.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
-[01Oct2025 21:46:01.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> a cuanto es que te compran los palos?
-[01Oct2025 21:46:10.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> a 26
-[01Oct2025 21:46:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> a bueno ni tan mal
-[01Oct2025 21:46:53.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> filo 4 a una esmeralda
-[01Oct2025 21:46:54.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> lo cojo?
-[01Oct2025 21:47:01.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> mejor el 5
-[01Oct2025 21:47:07.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> espera al 5
-[01Oct2025 21:47:14.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> y prestame ese gorro bro
-[01Oct2025 21:53:18.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek
-[01Oct2025 21:53:21.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> voy
-[01Oct2025 21:53:26.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> noo
-[01Oct2025 21:53:29.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> es que me voy afk
-[01Oct2025 21:53:33.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ah tt
-[01Oct2025 21:53:37.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> pero dejame ver que me puede salir
-[01Oct2025 21:53:37.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> pero duerme
-[01Oct2025 21:53:53.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ven a prestarte el gorro
-[01Oct2025 21:54:04.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> estoy aqui
-[01Oct2025 21:54:31.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> no te salgas del server
-[01Oct2025 21:54:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> voy para mi casa y cuando vuelva
-[01Oct2025 21:54:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
-[01Oct2025 21:56:46.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> sleeeep
-[01Oct2025 21:56:46.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> protecion 4
-[01Oct2025 21:56:48.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> este
-[01Oct2025 21:56:55.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ve a ver a cuanto te sale
-[01Oct2025 21:57:05.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> 27
-[01Oct2025 21:57:14.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> lo cojes o buscaras el de 1 esmeralda?
-[01Oct2025 21:57:25.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> dejame ver
-[01Oct2025 21:57:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> voy a ver si farmeo madera first
-[01Oct2025 21:57:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
-[01Oct2025 21:57:41.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> voy a buscar fortuna
-[01Oct2025 21:57:45.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> siii
-[01Oct2025 21:58:50.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> esta el mod de over enchant?
-[01Oct2025 21:58:56.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> se supone que si
-[01Oct2025 21:59:35.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> eficiencia 5
-[01Oct2025 21:59:37.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> aqui
-[01Oct2025 22:02:29.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek
-[01Oct2025 22:02:32.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> dimelo
-[01Oct2025 22:02:38.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> compraste el de eficiencia?
-[01Oct2025 22:02:42.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no
-[01Oct2025 22:02:45.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> pq?
-[01Oct2025 22:02:52.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> no quieren eficiencia 5?
-[01Oct2025 22:02:57.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> lo compro ahora
-[01Oct2025 22:03:03.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
-[01Oct2025 22:03:06.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> deja termino este arbol
-[01Oct2025 22:03:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
-[01Oct2025 22:03:22.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> weo
-[01Oct2025 22:03:26.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> me voy afk y me voy para mi casa
-[01Oct2025 22:03:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> te quedaras en el sv?
-[01Oct2025 22:03:32.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si
-[01Oct2025 22:03:36.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
-[01Oct2025 22:03:39.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tardare como 30
-[01Oct2025 22:03:42.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
-[01Oct2025 22:03:43.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> no mucho
-[01Oct2025 22:03:48.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ve a ver si consigues encantamientos jevi
-[01Oct2025 22:04:16.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si :p
-[01Oct2025 22:12:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> perdon
-[01Oct2025 22:12:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ya me saldre del server y me voy para la casa
-[01Oct2025 22:12:55.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> llego en 15
-[01Oct2025 22:12:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> y me vuelvo a meter
-[01Oct2025 22:12:59.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ah ok
-[01Oct2025 22:13:03.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
-[01Oct2025 22:13:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
-[01Oct2025 22:13:03.509] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[01Oct2025 22:41:14.384] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[01Oct2025 22:41:14.388] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[01Oct2025 22:41:17.162] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[01Oct2025 22:41:17.340] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/lolaso2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[01Oct2025 22:41:17.772] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[01Oct2025 22:41:17.775] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Oct2025 22:41:17.777] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Oct2025 22:41:17.778] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[01Oct2025 22:41:18.239] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[01Oct2025 22:41:20.455] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[01Oct2025 22:41:20.577] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[01Oct2025 22:41:20.581] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[01Oct2025 22:41:21.846] [main/WARN] [mixin/]: Error loading class: com/theishiopian/parrying/Entity/DaggerEntity (java.lang.ClassNotFoundException: com.theishiopian.parrying.Entity.DaggerEntity)
+[01Oct2025 22:41:21.848] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/guns/common/Gun (java.lang.ClassNotFoundException: com.mrcrayfish.guns.common.Gun)
+[01Oct2025 22:41:21.850] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/guns/item/GunItem (java.lang.ClassNotFoundException: com.mrcrayfish.guns.item.GunItem)
+[01Oct2025 22:41:21.852] [main/WARN] [mixin/]: Error loading class: slimeknights/tconstruct/tools/item/ModifiableBowItem (java.lang.ClassNotFoundException: slimeknights.tconstruct.tools.item.ModifiableBowItem)
+[01Oct2025 22:41:21.854] [main/WARN] [mixin/]: Error loading class: slimeknights/tconstruct/tools/item/ModifiableCrossbowItem (java.lang.ClassNotFoundException: slimeknights.tconstruct.tools.item.ModifiableCrossbowItem)
+[01Oct2025 22:41:21.856] [main/WARN] [mixin/]: Error loading class: com/theishiopian/parrying/Entity/SpearEntity (java.lang.ClassNotFoundException: com.theishiopian.parrying.Entity.SpearEntity)
+[01Oct2025 22:41:21.858] [main/WARN] [mixin/]: Error loading class: net/bettercombat/logic/WeaponRegistry (java.lang.ClassNotFoundException: net.bettercombat.logic.WeaponRegistry)
+[01Oct2025 22:41:22.086] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[01Oct2025 22:41:28.171] [main/WARN] [mixin/]: @Final field f_35975_:Lnet/minecraft/core/NonNullList; in weaponleveling-common.mixins.json:InventoryMixin should be final
+[01Oct2025 22:41:29.090] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[01Oct2025 22:41:29.117] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[01Oct2025 22:41:29.140] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[01Oct2025 22:41:29.426] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[01Oct2025 22:41:29.430] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[01Oct2025 22:41:29.437] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[01Oct2025 22:41:29.441] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[01Oct2025 22:41:29.442] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[01Oct2025 22:41:29.443] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[01Oct2025 22:41:29.452] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[01Oct2025 22:41:29.458] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[01Oct2025 22:41:29.897] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[01Oct2025 22:41:29.897] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[01Oct2025 22:41:29.896] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[01Oct2025 22:41:32.832] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 20
+[01Oct2025 22:41:32.945] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[01Oct2025 22:41:32.950] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[01Oct2025 22:41:32.951] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[01Oct2025 22:41:32.951] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[01Oct2025 22:41:33.062] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[01Oct2025 22:41:33.064] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[01Oct2025 22:41:33.067] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[01Oct2025 22:41:33.067] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[01Oct2025 22:41:33.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[01Oct2025 22:41:34.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[01Oct2025 22:41:34.054] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[01Oct2025 22:41:34.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[01Oct2025 22:41:34.251] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[01Oct2025 22:41:34.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.6.4 Target: null
+[01Oct2025 22:41:34.349] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Oct2025 22:41:34.471] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[01Oct2025 22:41:35.892] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Oct2025 22:41:37.612] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/lolaso2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
+[01Oct2025 22:41:37.612] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/lolaso2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
+[01Oct2025 22:41:37.701] [main/INFO] [com.simibubi.create.Create/]: Created 255 recipes which will be injected into the game
+[01Oct2025 22:41:37.713] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
+[01Oct2025 22:41:38.607] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[01Oct2025 22:41:40.511] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[01Oct2025 22:41:40.642] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3293 advancements
+[01Oct2025 22:41:40.656] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[01Oct2025 22:41:40.664] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[01Oct2025 22:41:42.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01Oct2025 22:41:42.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Oct2025 22:41:42.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Oct2025 22:41:42.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Oct2025 22:41:42.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Oct2025 22:41:42.463] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Oct2025 22:41:42.539] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Oct2025 22:41:42.539] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Oct2025 22:41:42.539] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Oct2025 22:41:42.540] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Oct2025 22:41:42.627] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[01Oct2025 22:41:42.628] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[01Oct2025 22:41:42.637] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01Oct2025 22:41:42.664] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01Oct2025 22:41:42.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Oct2025 22:41:45.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Oct2025 22:41:49.873] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:49.925] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:49.935] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:49.942] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:49.956] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:49.963] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:49.966] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:49.977] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:49.995] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:50.493] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:50.992] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:51.832] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:51.991] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Oct2025 22:41:52.490] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
+[01Oct2025 22:41:52.960] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6971 ms
+[01Oct2025 22:41:52.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.410s)! For help, type "help"
+[01Oct2025 22:41:53.005] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Oct2025 22:41:53.010] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[01Oct2025 22:41:53.012] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[01Oct2025 22:41:53.023] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'estate-enclosure.gl.at.ply.gg'
+[01Oct2025 22:41:53.023] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 6712
+[01Oct2025 22:42:56.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:37281] logged in with entity id 104 at (292.1304621207599, 83.0, 332.3091565249209)
+[01Oct2025 22:42:57.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[01Oct2025 22:42:58.288] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[01Oct2025 22:42:58.290] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[01Oct2025 22:43:01.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[01Oct2025 22:43:03.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[01Oct2025 22:43:03.147] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[01Oct2025 22:43:57.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.69.130.17:43057] logged in with entity id 617 at (253.06366678193683, 56.0, 387.70539074062134)
+[01Oct2025 22:43:57.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[01Oct2025 22:43:58.295] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[01Oct2025 22:43:58.296] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[01Oct2025 22:44:02.265] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[01Oct2025 22:44:03.257] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[01Oct2025 22:44:03.258] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[01Oct2025 22:44:08.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> hola bro
+[01Oct2025 22:47:06.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> bro
+[01Oct2025 22:47:11.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> diiiime
+[01Oct2025 22:47:12.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> el over enchanted no esta funcionando
+[01Oct2025 22:47:17.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bobo
+[01Oct2025 22:47:19.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> bro
+[01Oct2025 22:47:23.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> mi eficiencia VII
+[01Oct2025 22:47:25.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> :(
+[01Oct2025 22:47:37.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bueno bro ya se quedo asi en verdura
+[01Oct2025 22:48:27.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ese era muy importante
+[01Oct2025 22:48:33.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> en verdad
+[01Oct2025 22:49:36.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bro
+[01Oct2025 22:49:39.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> dime
+[01Oct2025 22:49:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> hay un flechero aqui afuera
+[01Oct2025 22:49:46.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> si agregamos el de la 1.20.4 funciona
+[01Oct2025 22:49:50.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> como?
+[01Oct2025 22:49:54.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> puedes dormir primero?
+[01Oct2025 22:50:03.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> voy ahora
+[01Oct2025 22:50:39.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> a;adimos el de over enchanted?
+[01Oct2025 22:50:54.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> espera
+[01Oct2025 22:50:56.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> vengo ahora
+[01Oct2025 22:51:00.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
+[01Oct2025 22:51:02.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[01Oct2025 22:51:02.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[01Oct2025 22:51:02.845] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[01Oct2025 22:52:05.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.137.204.25:38973] logged in with entity id 3316 at (386.69626799498036, 47.0, 615.3000000119209)
+[01Oct2025 22:52:05.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[01Oct2025 22:52:06.164] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[01Oct2025 22:52:06.165] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[01Oct2025 22:52:08.490] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[01Oct2025 22:52:09.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[01Oct2025 22:52:09.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
+[01Oct2025 22:54:21.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> brosky
+[01Oct2025 22:56:11.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> dile a omar que entreeeeeeeeeeeeee
+[01Oct2025 22:58:51.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.69.130.17:45929] logged in with entity id 5344 at (377.40501877288233, 64.0, 576.9776645864222)
+[01Oct2025 22:58:51.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[01Oct2025 22:58:52.070] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[01Oct2025 22:58:52.071] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[01Oct2025 22:58:55.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[01Oct2025 22:58:56.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[01Oct2025 22:58:56.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[01Oct2025 22:59:40.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> Omaaaar
+[01Oct2025 22:59:47.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> el gorrooooooooooo
+[01Oct2025 22:59:58.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> voy mi princes
+[01Oct2025 23:00:04.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> y que no me sale lo de cambiar los tradeos

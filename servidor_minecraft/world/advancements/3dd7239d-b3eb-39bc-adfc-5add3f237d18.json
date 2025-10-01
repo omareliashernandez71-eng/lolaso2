@@ -3993,33 +3993,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-10-01 19:46:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-01 19:46:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-01 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-01 19:46:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-10-01 19:51:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-10-01 19:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-10-01 21:24:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-10-01 20:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
     },
     "done": true
   },
@@ -4035,33 +4041,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
-    "criteria": {
-      "has_item": "2025-10-01 19:46:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-10-01 19:52:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2025-10-01 19:46:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-10-01 20:40:55 +0000"
     },
     "done": true
   },
@@ -4071,15 +4053,129 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-10-01 19:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-10-01 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-10-01 19:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-10-01 19:59:21 +0000"
     },
     "done": true
   },
@@ -4089,21 +4185,51 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-10-01 20:30:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-10-01 20:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-10-01 20:37:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
-      "has_smelting_upgrade": "2025-10-01 20:54:59 +0000"
+      "has_upgrade_base": "2025-10-01 20:40:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
-      "has_log": "2025-10-01 20:30:27 +0000"
+      "has_upgrade_base": "2025-10-01 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-10-01 20:40:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-10-01 20:40:55 +0000"
     },
     "done": true
   },
@@ -4116,18 +4242,6 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-10-01 20:41:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-10-01 19:58:01 +0000"
     },
     "done": true
   },
@@ -4149,39 +4263,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2025-10-01 20:37:46 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
-    "criteria": {
-      "has_item": "2025-10-01 19:46:15 +0000"
     },
     "done": true
   },
@@ -4197,24 +4287,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
-    "criteria": {
-      "has_item": "2025-10-01 19:51:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-10-01 19:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-10-01 20:41:49 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
@@ -4224,24 +4296,6 @@
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2025-10-01 19:52:20 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-10-01 20:54:59 +0000"
     },
     "done": true
   },
@@ -4257,33 +4311,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-10-01 20:41:49 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-10-01 21:32:35 +0000"
     },
     "done": true
   },
@@ -4299,12 +4329,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-10-01 19:52:41 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
@@ -4317,39 +4341,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-10-01 19:52:13 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-10-01 20:37:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-10-01 19:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-10-01 21:25:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
     },
     "done": true
   },
@@ -4362,12 +4356,6 @@
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-10-01 19:52:13 +0000"
     },
     "done": true
   },
@@ -4395,69 +4383,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-10-01 19:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-10-01 19:52:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
-    "criteria": {
-      "has_smelting_upgrade": "2025-10-01 20:54:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-10-01 19:52:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-10-01 19:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-10-01 21:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-10-01 21:35:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-10-01 19:52:13 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2025-10-01 21:32:32 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2025-10-01 19:46:09 +0000"
     },
     "done": true
   },
@@ -4473,24 +4401,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-10-01 21:26:40 +0000"
-    },
-    "done": true
-  },
-  "create:fan_processing": {
-    "criteria": {
-      "0": "2025-10-01 19:59:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-10-01 21:26:40 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-01 20:40:55 +0000"
@@ -4503,9 +4413,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-10-01 20:41:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-10-01 20:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-10-01 20:41:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-10-01 20:41:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-10-01 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-10-01 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-10-01 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-10-01 21:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-10-01 21:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-10-01 21:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-10-01 21:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-10-01 21:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-10-01 21:26:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-10-01 21:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-10-01 21:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-10-01 21:35:27 +0000"
     },
     "done": true
   },
