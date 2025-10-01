@@ -889,6 +889,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-10-01 20:32:14 +0000",
       "minecraft:beach": "2025-10-01 00:36:58 +0000",
       "minecraft:river": "2025-10-01 00:19:04 +0000",
       "minecraft:dripstone_caves": "2025-10-01 02:29:05 +0000",
@@ -4043,6 +4044,18 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-10-01 19:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-10-01 20:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-10-01 20:30:27 +0000"
     },
     "done": true
   },
