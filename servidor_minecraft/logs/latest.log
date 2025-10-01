@@ -412,3 +412,29 @@
 [01Oct2025 02:08:38.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
 [01Oct2025 02:08:38.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lolasodildazo (0b1b7d6f-cd28-343a-962c-6daa6555dda2) successfully connected to voice chat
 [01Oct2025 02:08:50.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> raul
+[01Oct2025 02:21:01.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo has made the advancement [Amateur Archaeologist]
+[01Oct2025 02:21:45.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 moved too quickly! -10.464148145036233,1.4096162742882825,-1.2474723462253223
+[01Oct2025 02:28:16.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 moved too quickly! -9.424376416924474,3.6310050973416708,0.368192516960562
+[01Oct2025 02:28:20.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f timed out
+[01Oct2025 02:28:20.300] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Anubis_11
+[01Oct2025 02:28:20.301] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[01Oct2025 02:28:20.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 was kicked for floating too long!
+[01Oct2025 02:28:20.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Flying is not enabled on this server
+[01Oct2025 02:28:20.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[01Oct2025 02:28:20.508] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[01Oct2025 02:28:44.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:58875] logged in with entity id 88588 at (291.5299515946822, 71.32969493200741, 378.6099980223466)
+[01Oct2025 02:28:44.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[01Oct2025 02:28:44.787] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[01Oct2025 02:28:44.788] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[01Oct2025 02:28:47.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 02:28:48.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 02:28:48.492] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[01Oct2025 02:32:32.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=376, y=65, z=580} BlockPos{x=375, y=63, z=579}
+[01Oct2025 02:35:37.960] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lolasodildazo lost connection: Disconnected
+[01Oct2025 02:35:37.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo left the game
+[01Oct2025 02:35:37.961] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lolasodildazo
+[01Oct2025 02:38:11.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=675, y=73, z=428} BlockPos{x=674, y=72, z=429}
+[01Oct2025 02:39:33.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lolasodildazo[/127.114.103.235:38541] logged in with entity id 94937 at (374.69999998807907, 64.0, 585.6999999880791)
+[01Oct2025 02:39:33.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo joined the game
+[01Oct2025 02:39:34.184] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lolasodildazo (20)
+[01Oct2025 02:39:34.185] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lolasodildazo
