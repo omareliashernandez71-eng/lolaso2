@@ -879,7 +879,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-10-01 00:18:44 +0000",
-      "bread": "2025-10-01 00:24:58 +0000"
+      "cooked_beef": "2025-10-01 02:02:54 +0000",
+      "bread": "2025-10-01 00:24:58 +0000",
+      "golden_apple": "2025-10-01 02:01:07 +0000"
     },
     "done": false
   },
@@ -2718,6 +2720,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-10-01 01:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-10-01 02:08:16 +0000"
     },
     "done": true
   },

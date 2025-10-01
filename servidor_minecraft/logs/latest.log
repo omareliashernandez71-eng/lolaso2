@@ -402,3 +402,13 @@
 [01Oct2025 01:56:04.543] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
 [01Oct2025 01:56:05.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
 [01Oct2025 01:56:05.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[01Oct2025 02:06:45.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 moved wrongly!
+[01Oct2025 02:08:13.909] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f8c4cc0[id=<null>,name=Lolasodildazo,properties={},legacy=false] (/127.114.103.235:39517) lost connection: Disconnected
+[01Oct2025 02:08:31.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lolasodildazo[/127.114.103.235:46789] logged in with entity id 76041 at (-417.61370498228575, 76.0, 44.43973112176137)
+[01Oct2025 02:08:31.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo joined the game
+[01Oct2025 02:08:32.213] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lolasodildazo (20)
+[01Oct2025 02:08:32.214] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lolasodildazo
+[01Oct2025 02:08:37.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[01Oct2025 02:08:38.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[01Oct2025 02:08:38.596] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lolasodildazo (0b1b7d6f-cd28-343a-962c-6daa6555dda2) successfully connected to voice chat
+[01Oct2025 02:08:50.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> raul
