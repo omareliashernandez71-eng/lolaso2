@@ -283,3 +283,86 @@
 [01Oct2025 19:43:51.221] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
 [01Oct2025 19:43:53.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> eeeeeeh
 [01Oct2025 19:43:57.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ati tmb zarek
+[01Oct2025 19:43:59.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> verdad?
+[01Oct2025 19:44:01.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:37937] logged in with entity id 27404 at (-2886.5, 63.0, -165.5)
+[01Oct2025 19:44:01.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[01Oct2025 19:44:02.208] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[01Oct2025 19:44:02.209] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[01Oct2025 19:44:02.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> ya
+[01Oct2025 19:44:03.313] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[01Oct2025 19:44:04.314] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[01Oct2025 19:44:04.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[01Oct2025 19:44:04.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> duerman
+[01Oct2025 19:44:09.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek
+[01Oct2025 19:44:11.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> LOLASO
+[01Oct2025 19:44:12.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tmb me paso
+[01Oct2025 19:45:14.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> omar vc bro
+[01Oct2025 19:46:22.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> omar vc grupo
+[01Oct2025 19:46:45.687] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[01Oct2025 19:46:45.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[01Oct2025 19:46:45.687] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[01Oct2025 19:47:50.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:46093] logged in with entity id 31252 at (401.6958538913765, 19.0, 347.7825509896519)
+[01Oct2025 19:47:50.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[01Oct2025 19:47:50.602] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[01Oct2025 19:47:50.602] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[01Oct2025 19:47:52.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 19:47:53.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 19:47:53.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[01Oct2025 19:48:40.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[01Oct2025 19:48:40.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[01Oct2025 19:48:40.928] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[01Oct2025 19:50:11.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:43909] logged in with entity id 32982 at (400.35733282243405, 17.0, 349.69999998807907)
+[01Oct2025 19:50:11.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[01Oct2025 19:50:11.273] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[01Oct2025 19:50:11.274] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[01Oct2025 19:50:12.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 19:50:13.608] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 19:50:13.609] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[01Oct2025 19:50:25.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[01Oct2025 19:50:25.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[01Oct2025 19:50:25.676] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[01Oct2025 19:52:33.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a18aca8f-045d-3cb5-a34b-480e96829118 timed out
+[01Oct2025 19:52:33.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player megatuber06
+[01Oct2025 19:52:33.664] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[01Oct2025 19:52:47.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[01Oct2025 19:52:47.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[01Oct2025 19:52:47.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[01Oct2025 19:52:50.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:43843] logged in with entity id 34599 at (400.69999998807907, 17.0, 349.2611678658692)
+[01Oct2025 19:52:50.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[01Oct2025 19:52:50.984] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[01Oct2025 19:52:50.984] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[01Oct2025 19:52:54.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 19:52:55.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 19:52:55.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[01Oct2025 19:53:02.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:42863] logged in with entity id 34860 at (-3434.100976989023, 62.0, 104.27549820763488)
+[01Oct2025 19:53:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[01Oct2025 19:53:03.663] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[01Oct2025 19:53:03.664] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[01Oct2025 19:53:06.087] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[01Oct2025 19:53:07.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[01Oct2025 19:53:07.819] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[01Oct2025 19:53:48.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 fell from a high place
+[01Oct2025 19:53:57.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! 1.0136722058045962,-1.4199999868869781,9.920177698609791
+[01Oct2025 19:54:37.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=69, z=447} BlockPos{x=456, y=67, z=447}
+[01Oct2025 19:54:37.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=69, z=447} BlockPos{x=456, y=67, z=447}
+[01Oct2025 19:55:43.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> duerman no sean putis ni perras
+[01Oct2025 19:55:52.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> por que no entras al vc?
+[01Oct2025 19:55:55.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zzzzzz
+[01Oct2025 19:55:56.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> lag
+[01Oct2025 19:55:56.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
+[01Oct2025 19:55:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzz
+[01Oct2025 19:56:44.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> DUERMAN
+[01Oct2025 19:56:46.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> MMMG
+[01Oct2025 19:56:54.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[01Oct2025 19:56:54.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[01Oct2025 19:56:54.571] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[01Oct2025 19:56:56.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> salte analubis
+[01Oct2025 19:57:22.327] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anubis_11[/127.81.8.24:42507] logged in with entity id 38273 at (452.71038160393255, -20.0, 339.52121612640406)
+[01Oct2025 19:57:22.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 joined the game
+[01Oct2025 19:57:22.566] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anubis_11 (20)
+[01Oct2025 19:57:22.566] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anubis_11
+[01Oct2025 19:57:23.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 19:57:24.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f
+[01Oct2025 19:57:24.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
+[01Oct2025 19:57:39.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 moved wrongly!
+[01Oct2025 19:58:01.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Hot Stuff]
