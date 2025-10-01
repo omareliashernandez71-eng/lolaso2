@@ -8142,3 +8142,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Oct2025 22:04:16.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si :p
 [01Oct2025 22:04:37.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Oct2025 22:04:37.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 22:09:37.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 22:09:37.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2025 22:12:43.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> perdon
+[01Oct2025 22:12:52.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ya me saldre del server y me voy para la casa
+[01Oct2025 22:12:55.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> llego en 15
+[01Oct2025 22:12:58.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> y me vuelvo a meter
+[01Oct2025 22:12:59.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ah ok
+[01Oct2025 22:13:03.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[01Oct2025 22:13:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[01Oct2025 22:13:03.509] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xClas06
+[01Oct2025 22:13:03.509] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[01Oct2025 22:14:37.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2025 22:14:37.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
