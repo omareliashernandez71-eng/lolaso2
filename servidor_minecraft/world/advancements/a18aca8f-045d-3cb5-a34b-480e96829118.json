@@ -2280,6 +2280,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-10-01 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:41:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-10-01 20:45:15 +0000"
@@ -2292,6 +2304,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:41:54 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/decorations/thermoregulator": {
     "criteria": {
       "has_thermometer": "2025-10-01 20:48:46 +0000"
@@ -2301,6 +2325,12 @@
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-10-01 20:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:41:54 +0000"
     },
     "done": true
   },
@@ -2322,6 +2352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:41:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-10-01 20:45:15 +0000"
@@ -2331,6 +2367,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-10-01 20:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:41:54 +0000"
     },
     "done": true
   },
@@ -2367,6 +2409,12 @@
   "toughasnails:recipes/redstone/temperature_gauge": {
     "criteria": {
       "has_thermometer": "2025-10-01 20:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:41:54 +0000"
     },
     "done": true
   },
@@ -2448,6 +2496,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-10-01 21:42:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-10-01 20:46:50 +0000"
@@ -2472,6 +2526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:41:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2025-10-01 20:45:15 +0000"
@@ -2487,6 +2547,12 @@
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-10-01 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-01 21:41:54 +0000"
     },
     "done": true
   },
