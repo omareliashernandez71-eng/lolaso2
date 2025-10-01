@@ -438,3 +438,41 @@
 [01Oct2025 02:39:33.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo joined the game
 [01Oct2025 02:39:34.184] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lolasodildazo (20)
 [01Oct2025 02:39:34.185] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lolasodildazo
+[01Oct2025 02:39:43.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[01Oct2025 02:39:44.603] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[01Oct2025 02:39:44.604] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lolasodildazo (0b1b7d6f-cd28-343a-962c-6daa6555dda2) successfully connected to voice chat
+[01Oct2025 02:40:05.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> grupo
+[01Oct2025 02:40:08.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> unete al grupo de vc
+[01Oct2025 02:41:57.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0b1b7d6f-cd28-343a-962c-6daa6555dda2 timed out
+[01Oct2025 02:41:57.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lolasodildazo
+[01Oct2025 02:41:57.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lolasodildazo
+[01Oct2025 02:42:03.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lolasodildazo lost connection: Timed out
+[01Oct2025 02:42:03.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo left the game
+[01Oct2025 02:42:03.269] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lolasodildazo
+[01Oct2025 02:42:12.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> zzzzz
+[01Oct2025 02:48:04.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[01Oct2025 02:48:04.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[01Oct2025 02:48:04.409] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[01Oct2025 02:48:19.361] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.69.130.17:45069] logged in with entity id 98632 at (374.30000001192093, 64.0, 584.8989176024944)
+[01Oct2025 02:48:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[01Oct2025 02:48:19.657] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[01Oct2025 02:48:19.657] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[01Oct2025 02:48:21.478] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[01Oct2025 02:48:22.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[01Oct2025 02:48:22.477] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[01Oct2025 02:48:35.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[01Oct2025 02:48:35.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[01Oct2025 02:48:35.863] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[01Oct2025 02:48:37.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[01Oct2025 02:48:37.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[01Oct2025 02:48:37.453] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[01Oct2025 02:49:07.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Oct2025 02:49:07.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Oct2025 02:49:07.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Oct2025 02:49:07.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Oct2025 02:49:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Oct2025 02:49:08.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Oct2025 02:49:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Oct2025 02:49:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Oct2025 02:49:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Oct2025 02:49:08.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
