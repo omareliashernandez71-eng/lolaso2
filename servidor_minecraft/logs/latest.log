@@ -141,3 +141,6 @@
 [02Oct2025 19:49:05.306] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anubis_11 (0bdc3c98-e4a0-3902-8d49-26ad96fa683f) successfully connected to voice chat
 [02Oct2025 19:49:09.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> unete al grupo
 [02Oct2025 19:49:13.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> brochachoo}
+[02Oct2025 20:11:28.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=67, z=695} BlockPos{x=157, y=66, z=693}
+[02Oct2025 20:12:11.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [We Need to Go Deeper]
+[02Oct2025 20:12:12.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
