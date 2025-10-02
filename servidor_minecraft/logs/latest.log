@@ -38,3 +38,53 @@
 [02Oct2025 00:38:21.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Flying is not enabled on this server
 [02Oct2025 00:38:21.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
 [02Oct2025 00:38:21.373] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[02Oct2025 00:42:59.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:50357] logged in with entity id 22557 at (370.939256968315, 65.02442408821369, 562.9888542799333)
+[02Oct2025 00:42:59.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[02Oct2025 00:43:01.044] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[02Oct2025 00:43:01.044] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[02Oct2025 00:43:13.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> te lo di
+[02Oct2025 00:43:14.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> tung tung tung sahurrrrrrr
+[02Oct2025 00:43:15.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> el gorro
+[02Oct2025 00:43:18.743] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[02Oct2025 00:43:19.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[02Oct2025 00:43:19.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[02Oct2025 00:43:36.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> dame 1 esme porfavor
+[02Oct2025 00:43:39.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek
+[02Oct2025 00:43:41.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> 1 esmeralda
+[02Oct2025 00:43:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> mejor comprame un fortuna
+[02Oct2025 00:43:54.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> que recuerdo que tiene el gorro
+[02Oct2025 00:44:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok
+[02Oct2025 00:44:20.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -2.903691672511343,-0.604424101326714,-9.799949850821065
+[02Oct2025 00:44:35.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> zarek olvidalo
+[02Oct2025 00:44:43.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> ok bro
+[02Oct2025 00:44:48.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> quedate con las esme
+[02Oct2025 00:45:33.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duerme
+[02Oct2025 00:45:50.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzz
+[02Oct2025 00:45:52.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzz
+[02Oct2025 00:45:52.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zz
+[02Oct2025 00:45:53.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
+[02Oct2025 00:45:53.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
+[02Oct2025 00:45:54.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
+[02Oct2025 00:45:54.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
+[02Oct2025 00:45:55.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> z
+[02Oct2025 00:45:55.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
+[02Oct2025 00:45:55.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
+[02Oct2025 00:45:56.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> z
+[02Oct2025 00:45:57.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> zzzz
+[02Oct2025 00:48:59.855] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a18aca8f-045d-3cb5-a34b-480e96829118 timed out
+[02Oct2025 00:48:59.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player megatuber06
+[02Oct2025 00:48:59.856] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[02Oct2025 00:49:04.865] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[02Oct2025 00:49:06.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[02Oct2025 00:49:06.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[02Oct2025 00:50:32.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Timed out
+[02Oct2025 00:50:32.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[02Oct2025 00:50:32.821] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[02Oct2025 00:50:49.778] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a3c535e[id=<null>,name=xClas06,properties={},legacy=false] (/127.69.130.17:55191) lost connection: Disconnected
+[02Oct2025 00:51:05.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.69.130.17:51041] logged in with entity id 25556 at (375.87875283317413, 64.0, 577.1245992681143)
+[02Oct2025 00:51:05.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[02Oct2025 00:51:05.778] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[02Oct2025 00:51:05.778] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[02Oct2025 00:51:07.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[02Oct2025 00:51:08.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[02Oct2025 00:51:08.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
