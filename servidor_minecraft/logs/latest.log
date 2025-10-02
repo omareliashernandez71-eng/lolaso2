@@ -2633,3 +2633,17 @@
 [02Oct2025 03:13:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
 [02Oct2025 03:13:34.288] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
 [02Oct2025 03:13:34.289] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[02Oct2025 03:13:38.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[02Oct2025 03:13:39.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[02Oct2025 03:13:39.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[02Oct2025 03:20:27.764] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[02Oct2025 03:20:27.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[02Oct2025 03:20:27.765] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[02Oct2025 03:20:54.620] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.137.204.25:57985] logged in with entity id 85047 at (310.5321676863306, 62.0, 681.2864838059131)
+[02Oct2025 03:20:54.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[02Oct2025 03:20:54.789] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[02Oct2025 03:20:54.789] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[02Oct2025 03:20:56.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[02Oct2025 03:20:57.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[02Oct2025 03:20:57.689] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
+[02Oct2025 03:22:24.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [The Brass Age]
