@@ -4628,21 +4628,33 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_item": "2025-10-02 00:41:05 +0000"
+      "voluntary_exile": "2025-10-02 00:02:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-10-02 00:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-10-02 00:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-10-02 00:16:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-10-02 00:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-10-02 00:02:53 +0000"
     },
     "done": true
   },
@@ -4664,33 +4676,9 @@
     },
     "done": true
   },
-  "create:compacting": {
-    "criteria": {
-      "0": "2025-10-02 00:49:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-10-02 00:17:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-10-02 00:16:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
-    "criteria": {
-      "has_item": "2025-10-02 00:12:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
-    "criteria": {
-      "has_diamond_ore": "2025-10-02 00:16:52 +0000"
     },
     "done": true
   },
@@ -4699,6 +4687,24 @@
       "has_mossy_cobblestone": "2025-10-02 00:17:30 +0000"
     },
     "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-10-02 00:41:05 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-10-02 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-10-02 00:51:47 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
