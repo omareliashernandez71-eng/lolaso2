@@ -919,6 +919,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-10-02 00:02:53 +0000",
       "minecraft:skeleton": "2025-10-01 00:38:33 +0000",
       "minecraft:spider": "2025-10-01 00:24:08 +0000",
       "minecraft:creeper": "2025-10-01 00:25:43 +0000",
@@ -4620,6 +4621,12 @@
   "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-10-01 23:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-10-02 00:02:53 +0000"
     },
     "done": true
   },
