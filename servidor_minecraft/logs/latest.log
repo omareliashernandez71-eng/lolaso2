@@ -126,3 +126,9 @@
 [02Oct2025 19:34:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> crea un grupo
 [02Oct2025 19:35:06.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ya
 [02Oct2025 19:36:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bro?
+[02Oct2025 19:39:49.171] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a18aca8f-045d-3cb5-a34b-480e96829118 timed out
+[02Oct2025 19:39:49.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player megatuber06
+[02Oct2025 19:39:49.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[02Oct2025 19:39:59.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[02Oct2025 19:39:59.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[02Oct2025 19:39:59.702] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
