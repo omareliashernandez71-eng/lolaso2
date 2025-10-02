@@ -2600,3 +2600,5 @@
 [02Oct2025 01:37:55.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
 [02Oct2025 01:37:55.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
 [02Oct2025 01:37:55.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[02Oct2025 02:05:09.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> t
+[02Oct2025 02:05:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Ice Bucket Challenge]

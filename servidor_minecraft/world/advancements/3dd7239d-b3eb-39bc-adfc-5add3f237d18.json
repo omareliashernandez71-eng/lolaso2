@@ -4711,9 +4711,27 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-10-02 02:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-10-02 02:05:54 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-10-02 01:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-10-02 02:05:54 +0000"
     },
     "done": true
   },
