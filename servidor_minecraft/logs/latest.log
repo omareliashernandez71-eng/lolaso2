@@ -2602,3 +2602,8 @@
 [02Oct2025 01:37:55.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
 [02Oct2025 02:05:09.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> t
 [02Oct2025 02:05:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Ice Bucket Challenge]
+[02Oct2025 02:15:07.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [We Need to Go Deeper]
+[02Oct2025 02:15:08.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[02Oct2025 02:15:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [We Need to Go Deeper]
+[02Oct2025 02:18:56.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=280, y=64, z=593} BlockPos{x=279, y=62, z=592}
+[02Oct2025 02:18:57.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=280, y=64, z=593} BlockPos{x=279, y=62, z=592}
