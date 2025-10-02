@@ -4693,6 +4693,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-10-02 22:27:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/copper_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
