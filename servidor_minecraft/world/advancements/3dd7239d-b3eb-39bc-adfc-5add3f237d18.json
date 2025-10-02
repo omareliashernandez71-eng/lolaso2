@@ -934,6 +934,7 @@
       "minecraft:creeper": "2025-10-01 00:25:43 +0000",
       "minecraft:witch": "2025-10-02 01:21:51 +0000",
       "minecraft:cave_spider": "2025-10-01 01:12:21 +0000",
+      "minecraft:piglin": "2025-10-02 02:46:23 +0000",
       "minecraft:zombie": "2025-10-01 00:22:45 +0000"
     },
     "done": false
@@ -4732,9 +4733,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-10-02 02:15:10 +0000"
+      "minecraft:crimson_forest": "2025-10-02 02:50:29 +0000",
+      "minecraft:nether_wastes": "2025-10-02 02:15:10 +0000",
+      "minecraft:soul_sand_valley": "2025-10-02 02:45:30 +0000",
+      "minecraft:basalt_deltas": "2025-10-02 02:49:00 +0000",
+      "minecraft:warped_forest": "2025-10-02 02:52:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
@@ -4757,6 +4762,12 @@
   "toughasnails:recipes/decorations/thermoregulator": {
     "criteria": {
       "has_thermometer": "2025-10-02 02:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-02 02:56:12 +0000"
     },
     "done": true
   },
@@ -4802,6 +4813,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-10-02 03:00:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-02 02:54:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-10-02 02:05:54 +0000"
@@ -4820,6 +4843,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-02 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-02 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-10-02 02:53:59 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-10-02 01:44:53 +0000"
@@ -4829,6 +4870,12 @@
   "create:recipes/misc/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2025-10-02 02:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-10-02 02:53:49 +0000"
     },
     "done": true
   },
@@ -4847,6 +4894,24 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-10-02 02:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-02 02:56:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-02 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-02 02:54:15 +0000"
     },
     "done": true
   },
@@ -4874,6 +4939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-02 02:54:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-10-02 02:27:28 +0000"
@@ -4889,6 +4960,12 @@
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-10-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-02 02:54:15 +0000"
     },
     "done": true
   },
@@ -4913,6 +4990,12 @@
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-10-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-02 02:54:15 +0000"
     },
     "done": true
   },
@@ -4949,6 +5032,18 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-10-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-02 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-10-02 03:00:15 +0000"
     },
     "done": true
   },

@@ -9522,3 +9522,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 02:40:56.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Oct2025 02:40:56.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Oct2025 02:41:12.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=149, y=67, z=660} BlockPos{x=150, y=66, z=660}
+[02Oct2025 02:45:56.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 02:45:56.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 02:46:11.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj was doomed to fall by Skeleton
+[02Oct2025 02:50:56.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 02:50:56.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 02:52:27.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has completed the challenge [Hot Tourist Destinations]
+[02Oct2025 02:53:37.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> xaero-waypoint:FORTALEZA:F:-383:66:174:1:false:0:Internal-the-nether-waypoints
+[02Oct2025 02:53:49.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [A Terrible Fortress]
+[02Oct2025 02:55:56.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 02:55:56.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 02:56:25.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=88, z=82} BlockPos{x=10, y=87, z=82}
+[02Oct2025 02:56:25.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=88, z=82} BlockPos{x=10, y=87, z=82}
+[02Oct2025 02:56:25.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=88, z=82} BlockPos{x=10, y=87, z=82}
+[02Oct2025 02:56:25.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=88, z=82} BlockPos{x=10, y=87, z=82}
+[02Oct2025 02:56:25.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=88, z=82} BlockPos{x=10, y=87, z=82}
+[02Oct2025 02:56:25.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=88, z=82} BlockPos{x=10, y=87, z=82}
+[02Oct2025 02:56:25.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=88, z=82} BlockPos{x=10, y=87, z=82}
+[02Oct2025 02:56:25.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=11, y=88, z=82} BlockPos{x=10, y=87, z=82}
+[02Oct2025 02:58:28.899] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of xClas06: {disabled=false, disconnected=false, uuid=3dd7239d-b3eb-39bc-adfc-5add3f237d18, name=xClas06, group=b000264a-9e06-47ab-8da9-ae18dcaf67c1}
+[02Oct2025 02:58:31.585] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of emilghj: {disabled=false, disconnected=false, uuid=a58d4edc-d868-348c-a1ab-e8ddf9cff6a8, name=emilghj, group=b000264a-9e06-47ab-8da9-ae18dcaf67c1}
+[02Oct2025 02:58:36.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> unete
+[02Oct2025 03:00:56.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 03:00:56.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
