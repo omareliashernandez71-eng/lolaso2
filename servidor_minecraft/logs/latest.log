@@ -164,3 +164,6 @@
 [02Oct2025 22:54:16.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
 [02Oct2025 22:54:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
 [02Oct2025 22:54:16.643] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[02Oct2025 23:21:40.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[02Oct2025 23:21:40.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[02Oct2025 23:21:40.796] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11

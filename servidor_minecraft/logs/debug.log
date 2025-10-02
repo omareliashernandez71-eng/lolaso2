@@ -5753,3 +5753,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 23:12:28.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Oct2025 23:17:28.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Oct2025 23:17:28.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 23:21:40.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[02Oct2025 23:21:40.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[02Oct2025 23:21:40.795] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anubis_11
+[02Oct2025 23:21:40.796] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[02Oct2025 23:22:28.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 23:22:28.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 23:27:28.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 23:27:28.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
