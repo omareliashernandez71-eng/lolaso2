@@ -4197,6 +4197,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-10-02 22:13:22 +0000"
+    },
+    "done": true
+  },
   "create:belt": {
     "criteria": {
       "0": "2025-10-02 21:59:18 +0000"
@@ -4278,6 +4284,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-10-02 20:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-10-02 22:07:55 +0000"
     },
     "done": true
   },
