@@ -530,6 +530,7 @@
       "golden_apple": "2025-10-02 00:19:57 +0000",
       "rotten_flesh": "2025-10-02 01:07:50 +0000",
       "glow_berries": "2025-10-01 01:05:51 +0000",
+      "dried_kelp": "2025-10-02 21:57:51 +0000",
       "salmon": "2025-10-02 21:04:10 +0000",
       "cooked_chicken": "2025-10-02 01:26:36 +0000"
     },
@@ -3932,6 +3933,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-10-02 20:08:31 +0000"
@@ -3962,6 +3969,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-10-02 20:51:44 +0000"
@@ -3989,6 +4002,12 @@
   "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-10-02 20:51:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-10-02 22:05:42 +0000"
     },
     "done": true
   },
@@ -4100,6 +4119,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-02 22:06:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-10-02 19:53:28 +0000"
@@ -4169,6 +4194,12 @@
   "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_item": "2025-10-02 20:08:31 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-10-02 21:59:18 +0000"
     },
     "done": true
   },
@@ -4460,6 +4491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-10-02 21:57:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-10-02 19:53:28 +0000"
@@ -4511,6 +4548,12 @@
   "toughasnails:recipes/combat/leaf_boots": {
     "criteria": {
       "has_leaves": "2025-10-02 21:15:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:07 +0000"
     },
     "done": true
   },

@@ -607,6 +607,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-10-02 21:58:33 +0000",
       "sweet_berries": "2025-10-02 21:54:13 +0000",
       "cooked_beef": "2025-10-01 00:24:01 +0000",
       "beef": "2025-10-01 00:14:44 +0000",
@@ -4522,6 +4523,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-10-02 19:52:09 +0000"
@@ -4531,6 +4538,18 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-10-02 21:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -4549,6 +4568,12 @@
   "create:recipes/misc/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -4588,6 +4613,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/stone_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
@@ -4600,6 +4631,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
@@ -4609,6 +4646,12 @@
   "create:recipes/misc/crafting/kinetics/water_wheel": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -4630,6 +4673,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
@@ -4648,9 +4697,21 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/wool_helmet": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-10-02 21:48:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -4687,6 +4748,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-10-02 21:48:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -4840,9 +4907,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/redstone_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -4897,6 +4982,24 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-10-02 21:46:45 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_leggings": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_chestplate": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -4966,6 +5069,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/emerald_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
@@ -4975,6 +5084,18 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-10-02 21:54:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -5002,15 +5123,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-10-02 19:52:09 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/smoker_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -5044,6 +5195,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/sweet_berry_juice": {
     "criteria": {
       "has_sweet_berries": "2025-10-02 21:53:44 +0000"
@@ -5053,6 +5210,18 @@
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -5116,6 +5285,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/netherrack_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
@@ -5125,6 +5306,12 @@
   "securitycraft:recipes/building_blocks/furnace_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -5152,15 +5339,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_boots": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -5176,6 +5381,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-10-02 20:12:11 +0000"
@@ -5188,6 +5405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-10-02 20:40:32 +0000"
@@ -5197,6 +5420,12 @@
   "securitycraft:recipes/building_blocks/nether_gold_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -5218,6 +5447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-10-02 21:48:56 +0000"
@@ -5236,6 +5471,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_boots": {
     "criteria": {
       "has_leaves": "2025-10-02 21:12:09 +0000"
@@ -5251,6 +5498,12 @@
   "create:recipes/misc/crafting/logistics/item_hatch": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
@@ -5287,6 +5540,12 @@
   "securitycraft:recipes/building_blocks/sand_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-10-02 22:05:40 +0000"
     },
     "done": true
   },
