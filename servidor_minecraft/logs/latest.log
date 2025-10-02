@@ -149,3 +149,10 @@
 [02Oct2025 21:15:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Cover Me with Diamonds]
 [02Oct2025 21:46:58.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> xaero-waypoint:Shared Location:S:732:63:306:4:false:0:Internal-overworld-waypoints
 [02Oct2025 22:08:11.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 was doomed to fall
+[02Oct2025 22:38:02.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.69.130.17:55529] logged in with entity id 72220 at (374.7891988094073, 73.0, 575.3023616274485)
+[02Oct2025 22:38:02.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[02Oct2025 22:38:03.607] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[02Oct2025 22:38:03.607] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[02Oct2025 22:38:07.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[02Oct2025 22:38:08.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[02Oct2025 22:38:08.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
