@@ -1,2 +1,40 @@
 [02Oct2025 00:02:53.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Voluntary Exile]
 [02Oct2025 00:14:11.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Voluntary Exile]
+[02Oct2025 00:26:59.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj was incinerated by an Encased Fan
+[02Oct2025 00:34:29.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:46317] logged in with entity id 18538 at (261.62259732248054, 56.7531999805212, 394.4428652039498)
+[02Oct2025 00:34:29.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[02Oct2025 00:34:31.625] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[02Oct2025 00:34:31.625] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[02Oct2025 00:34:39.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> broooo
+[02Oct2025 00:34:39.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> duerme zarek
+[02Oct2025 00:34:42.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> rapido
+[02Oct2025 00:34:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> duerme
+[02Oct2025 00:34:59.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[02Oct2025 00:34:59.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[02Oct2025 00:34:59.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[02Oct2025 00:35:25.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.84.184.127:55077] logged in with entity id 18922 at (261.62259732248054, 56.28904060556576, 394.4428652039498)
+[02Oct2025 00:35:25.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[02Oct2025 00:35:26.198] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[02Oct2025 00:35:26.198] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[02Oct2025 00:35:44.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[02Oct2025 00:35:45.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[02Oct2025 00:35:45.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[02Oct2025 00:35:52.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> hey
+[02Oct2025 00:35:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> klk
+[02Oct2025 00:36:09.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> aqui esperando al gorro en verdura
+[02Oct2025 00:36:11.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lolaso
+[02Oct2025 00:36:14.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> q hacen?
+[02Oct2025 00:36:27.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> una granja de andesita
+[02Oct2025 00:36:27.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> voy ahora
+[02Oct2025 00:36:32.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> klk con tu internet
+[02Oct2025 00:36:43.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> existe
+[02Oct2025 00:36:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> para que la andesita?
+[02Oct2025 00:37:03.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> el create es todo andesita
+[02Oct2025 00:37:04.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> lit
+[02Oct2025 00:37:13.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> jevi
+[02Oct2025 00:37:14.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> tu internet sigue critico
+[02Oct2025 00:37:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> yo se
+[02Oct2025 00:38:21.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 was kicked for floating too long!
+[02Oct2025 00:38:21.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Flying is not enabled on this server
+[02Oct2025 00:38:21.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[02Oct2025 00:38:21.373] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06

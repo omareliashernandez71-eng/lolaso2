@@ -889,12 +889,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-10-02 00:27:19 +0000",
       "minecraft:frozen_river": "2025-10-01 20:32:14 +0000",
       "minecraft:beach": "2025-10-01 00:36:58 +0000",
       "minecraft:river": "2025-10-01 00:19:04 +0000",
+      "minecraft:snowy_plains": "2025-10-02 00:28:16 +0000",
       "minecraft:dripstone_caves": "2025-10-01 02:29:05 +0000",
+      "minecraft:snowy_taiga": "2025-10-02 00:28:08 +0000",
       "minecraft:forest": "2025-10-01 01:55:46 +0000",
       "minecraft:ocean": "2025-10-01 01:34:26 +0000",
+      "minecraft:snowy_beach": "2025-10-02 00:25:06 +0000",
       "minecraft:plains": "2025-10-01 00:33:37 +0000"
     },
     "done": false
@@ -4624,15 +4628,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 00:17:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-10-02 00:02:53 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 00:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 00:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 00:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 00:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-10-02 00:16:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-10-02 00:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-10-02 00:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-10-02 00:17:30 +0000"
     },
     "done": true
   },
