@@ -900,6 +900,7 @@
       "minecraft:snowy_taiga": "2025-10-02 00:28:08 +0000",
       "minecraft:swamp": "2025-10-02 01:22:50 +0000",
       "minecraft:forest": "2025-10-01 01:55:46 +0000",
+      "minecraft:frozen_ocean": "2025-10-02 02:38:49 +0000",
       "minecraft:ocean": "2025-10-01 01:34:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-10-02 01:25:44 +0000",
       "minecraft:snowy_beach": "2025-10-02 00:25:06 +0000",
@@ -4747,6 +4748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-10-02 02:39:59 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/decorations/thermoregulator": {
     "criteria": {
       "has_thermometer": "2025-10-02 02:26:21 +0000"
@@ -4804,6 +4811,12 @@
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-10-02 02:21:03 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/ice_cream": {
+    "criteria": {
+      "has_snowball": "2025-10-02 02:39:59 +0000"
     },
     "done": true
   },
@@ -4948,6 +4961,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-10-02 02:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-10-02 02:39:59 +0000"
     },
     "done": true
   },
