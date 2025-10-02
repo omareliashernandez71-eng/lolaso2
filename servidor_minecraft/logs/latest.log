@@ -144,3 +144,5 @@
 [02Oct2025 20:11:28.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=67, z=695} BlockPos{x=157, y=66, z=693}
 [02Oct2025 20:12:11.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [We Need to Go Deeper]
 [02Oct2025 20:12:12.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[02Oct2025 21:01:56.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [Hot Stuff]
+[02Oct2025 21:05:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [The Andesite Age]

@@ -4676,6 +4676,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-10-02 21:01:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
