@@ -2654,3 +2654,16 @@
 [02Oct2025 03:26:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
 [02Oct2025 03:26:43.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
 [02Oct2025 03:29:00.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 burned to death
+[02Oct2025 03:42:50.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[02Oct2025 03:42:50.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[02Oct2025 03:42:50.512] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[02Oct2025 03:43:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Oct2025 03:43:40.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Oct2025 03:43:40.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Oct2025 03:43:40.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Oct2025 03:43:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Oct2025 03:43:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Oct2025 03:43:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Oct2025 03:43:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Oct2025 03:43:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Oct2025 03:43:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

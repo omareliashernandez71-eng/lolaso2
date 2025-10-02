@@ -9904,3 +9904,53 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 03:29:00.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 burned to death
 [02Oct2025 03:30:56.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Oct2025 03:30:56.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 03:35:56.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 03:35:56.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 03:40:56.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 03:40:56.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 03:42:50.512] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[02Oct2025 03:42:50.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[02Oct2025 03:42:50.512] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xClas06
+[02Oct2025 03:42:50.512] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[02Oct2025 03:42:50.734] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.758] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.774] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.797] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.813] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.837] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.854] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.884] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.894] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.914] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.934] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.954] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:50.974] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.014] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.038] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.054] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.077] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.094] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.111] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.137] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.153] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.180] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:42:51.211] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 3dd7239d-b3eb-39bc-adfc-5add3f237d18 does not have a secret
+[02Oct2025 03:43:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Oct2025 03:43:40.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Oct2025 03:43:40.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Oct2025 03:43:40.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Oct2025 03:43:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Oct2025 03:43:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Oct2025 03:43:40.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 03:43:40.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 03:43:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Oct2025 03:43:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Oct2025 03:43:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Oct2025 03:43:40.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Oct2025 03:43:40.777] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[02Oct2025 03:43:40.777] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[02Oct2025 03:43:41.436] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[02Oct2025 03:43:41.436] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[02Oct2025 03:43:41.458] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[02Oct2025 03:43:41.458] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[02Oct2025 03:43:41.460] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

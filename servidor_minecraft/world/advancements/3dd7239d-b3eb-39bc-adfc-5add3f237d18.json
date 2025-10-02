@@ -5161,6 +5161,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-10-02 03:36:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-10-02 03:17:04 +0000"
