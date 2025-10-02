@@ -5533,3 +5533,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 21:32:28.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Oct2025 21:37:28.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Oct2025 21:37:28.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:42:28.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:42:28.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:46:58.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> xaero-waypoint:Shared Location:S:732:63:306:4:false:0:Internal-overworld-waypoints
+[02Oct2025 21:47:26.508] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of emilghj: {disabled=true, disconnected=false, uuid=a58d4edc-d868-348c-a1ab-e8ddf9cff6a8, name=emilghj, group=496c627d-60ff-4a27-86bf-2286f3c9e462}
+[02Oct2025 21:47:28.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:47:28.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:47:32.954] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of emilghj: {disabled=false, disconnected=false, uuid=a58d4edc-d868-348c-a1ab-e8ddf9cff6a8, name=emilghj, group=496c627d-60ff-4a27-86bf-2286f3c9e462}
+[02Oct2025 21:52:28.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:52:28.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:57:28.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:57:28.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

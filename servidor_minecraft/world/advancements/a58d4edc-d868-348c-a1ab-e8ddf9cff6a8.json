@@ -524,6 +524,7 @@
       "beef": "2025-10-01 00:29:54 +0000",
       "porkchop": "2025-10-02 19:59:49 +0000",
       "apple": "2025-10-01 00:13:39 +0000",
+      "pumpkin_pie": "2025-10-02 21:43:46 +0000",
       "mutton": "2025-10-01 00:20:46 +0000",
       "bread": "2025-10-01 00:48:26 +0000",
       "golden_apple": "2025-10-02 00:19:57 +0000",
@@ -829,6 +830,7 @@
       "minecraft:beach": "2025-10-01 00:37:01 +0000",
       "minecraft:river": "2025-10-01 00:23:47 +0000",
       "minecraft:forest": "2025-10-01 19:48:41 +0000",
+      "minecraft:ocean": "2025-10-02 21:49:52 +0000",
       "minecraft:plains": "2025-10-01 00:35:54 +0000"
     },
     "done": false
@@ -3858,9 +3860,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-10-02 21:41:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
       "has_item": "2025-10-02 20:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-10-02 21:41:38 +0000"
     },
     "done": true
   },
@@ -3903,6 +3917,12 @@
   "create:recipes/misc/crafting/kinetics/rope_pulley": {
     "criteria": {
       "has_item": "2025-10-02 20:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-10-02 21:40:04 +0000"
     },
     "done": true
   },
@@ -4008,6 +4028,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-10-02 21:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-10-02 21:50:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2025-10-02 21:05:19 +0000"
@@ -4017,6 +4049,12 @@
   "create:recipes/misc/crafting/materials/zinc_ingot_from_compacting": {
     "criteria": {
       "has_item": "2025-10-02 21:30:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-10-02 21:40:04 +0000"
     },
     "done": true
   },
@@ -4152,6 +4190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-10-02 21:40:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-10-02 20:08:31 +0000"
@@ -4164,6 +4208,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/food/pumpkin_juice": {
+    "criteria": {
+      "has_pumpkin": "2025-10-02 21:39:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/speedometer": {
     "criteria": {
       "has_item": "2025-10-02 20:08:31 +0000"
@@ -4173,6 +4223,12 @@
   "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-10-02 20:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-10-02 21:50:00 +0000"
     },
     "done": true
   },
@@ -4212,6 +4268,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-10-02 21:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-10-02 21:50:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-10-02 20:51:44 +0000"
@@ -4242,6 +4310,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-10-02 21:40:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-10-02 20:51:44 +0000"
@@ -4257,6 +4331,12 @@
   "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
     "criteria": {
       "has_sign": "2025-10-02 20:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-10-02 21:39:29 +0000"
     },
     "done": true
   },
@@ -4299,6 +4379,12 @@
   "create:recipes/misc/crafting/kinetics/millstone": {
     "criteria": {
       "has_item": "2025-10-02 21:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-10-02 21:40:52 +0000"
     },
     "done": true
   },
@@ -4377,6 +4463,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-10-02 19:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-10-02 21:40:52 +0000"
     },
     "done": true
   },

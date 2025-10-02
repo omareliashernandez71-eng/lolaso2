@@ -607,11 +607,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-10-02 21:54:13 +0000",
       "cooked_beef": "2025-10-01 00:24:01 +0000",
       "beef": "2025-10-01 00:14:44 +0000",
       "porkchop": "2025-10-01 00:15:44 +0000",
       "bread": "2025-10-01 00:46:45 +0000",
       "rabbit_stew": "2025-10-01 20:29:24 +0000",
+      "cooked_salmon": "2025-10-02 21:49:33 +0000",
       "carrot": "2025-10-02 20:09:28 +0000"
     },
     "done": false
@@ -4526,6 +4528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-10-02 21:54:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
@@ -4640,6 +4648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-10-02 21:48:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/iron_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
@@ -4670,6 +4684,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-10-02 21:48:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/cobblestone_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
@@ -4679,6 +4699,12 @@
   "securitycraft:recipes/building_blocks/coal_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-10-02 21:48:56 +0000"
     },
     "done": true
   },
@@ -4712,6 +4738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-02 21:48:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
       "has_stack_upgrade_starter_tier": "2025-10-02 20:19:19 +0000"
@@ -4721,6 +4753,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-10-02 20:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-10-02 21:54:34 +0000"
     },
     "done": true
   },
@@ -4778,6 +4816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-10-02 21:51:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-10-02 20:38:58 +0000"
@@ -4787,6 +4831,12 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-10-02 21:46:45 +0000"
     },
     "done": true
   },
@@ -4841,6 +4891,12 @@
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-10-02 21:46:45 +0000"
     },
     "done": true
   },
@@ -4916,6 +4972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-10-02 21:54:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-10-02 20:12:11 +0000"
@@ -4931,6 +4993,12 @@
   "create:recipes/misc/crafting/kinetics/white_sail": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-10-02 21:48:56 +0000"
     },
     "done": true
   },
@@ -4976,6 +5044,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/food/sweet_berry_juice": {
+    "criteria": {
+      "has_sweet_berries": "2025-10-02 21:53:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
@@ -4991,6 +5065,12 @@
   "securitycraft:recipes/tools/wire_cutters": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-10-02 21:48:56 +0000"
     },
     "done": true
   },
@@ -5021,6 +5101,12 @@
   "create:recipes/misc/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-10-02 21:51:20 +0000"
     },
     "done": true
   },
@@ -5126,6 +5212,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-02 21:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-10-02 21:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-02 21:48:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
@@ -5159,6 +5263,12 @@
   "securitycraft:recipes/building_blocks/diamond_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-02 21:48:56 +0000"
     },
     "done": true
   },
