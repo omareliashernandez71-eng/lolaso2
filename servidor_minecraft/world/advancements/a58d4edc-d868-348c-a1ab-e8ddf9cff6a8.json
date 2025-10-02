@@ -3632,6 +3632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-02 01:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-10-02 01:35:37 +0000"
@@ -3641,6 +3647,18 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-10-02 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-02 01:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-02 01:51:42 +0000"
     },
     "done": true
   },
