@@ -105,3 +105,24 @@
 [02Oct2025 19:04:15.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
 [02Oct2025 19:04:16.120] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
 [02Oct2025 19:04:16.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[02Oct2025 19:26:17.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: emilghj[/127.82.243.29:36571] logged in with entity id 5666 at (358.3363110160081, 47.0, 628.3000000119209)
+[02Oct2025 19:26:17.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj joined the game
+[02Oct2025 19:26:19.064] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of emilghj (20)
+[02Oct2025 19:26:19.065] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to emilghj
+[02Oct2025 19:26:19.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[02Oct2025 19:26:21.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[02Oct2025 19:26:22.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> broskyyyyy
+[02Oct2025 19:26:22.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a58d4edc-d868-348c-a1ab-e8ddf9cff6a8
+[02Oct2025 19:26:22.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player emilghj (a58d4edc-d868-348c-a1ab-e8ddf9cff6a8) successfully connected to voice chat
+[02Oct2025 19:26:31.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lolaso
+[02Oct2025 19:26:39.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> llevo como media hora solo
+[02Oct2025 19:26:59.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> taba configurando algo
+[02Oct2025 19:28:48.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Isn't It Iron Pick]
+[02Oct2025 19:29:55.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> duerme brosky
+[02Oct2025 19:29:57.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> voy
+[02Oct2025 19:34:04.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> BRO
+[02Oct2025 19:34:09.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> dimelo
+[02Oct2025 19:34:22.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> puedes hablar por vc?
+[02Oct2025 19:34:39.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> crea un grupo
+[02Oct2025 19:35:06.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> ya
+[02Oct2025 19:36:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> bro?
