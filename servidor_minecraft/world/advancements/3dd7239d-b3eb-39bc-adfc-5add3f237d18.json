@@ -5113,9 +5113,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+  "create:mechanical_mixer": {
     "criteria": {
-      "has_item": "2025-10-02 03:22:27 +0000"
+      "0": "2025-10-02 03:17:02 +0000"
     },
     "done": true
   },
@@ -5137,21 +5137,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
-    "criteria": {
-      "has_item": "2025-10-02 03:22:27 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-10-02 03:17:04 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_mixer": {
-    "criteria": {
-      "0": "2025-10-02 03:17:02 +0000"
     },
     "done": true
   },
@@ -5161,27 +5149,9 @@
     },
     "done": true
   },
-  "create:mechanical_crafter": {
-    "criteria": {
-      "0": "2025-10-02 03:36:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-10-02 03:17:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/content_observer": {
-    "criteria": {
-      "has_item": "2025-10-02 03:22:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/display_link": {
-    "criteria": {
-      "has_item": "2025-10-02 03:22:27 +0000"
     },
     "done": true
   },
@@ -5203,18 +5173,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
-    "criteria": {
-      "has_item": "2025-10-02 03:22:27 +0000"
-    },
-    "done": true
-  },
-  "create:brass_casing": {
-    "criteria": {
-      "0": "2025-10-02 03:22:24 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/brass_hand": {
     "criteria": {
       "has_item": "2025-10-02 03:17:04 +0000"
@@ -5224,6 +5182,66 @@
   "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-10-02 03:17:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-10-02 03:17:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-10-02 03:17:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-02 03:17:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-10-02 03:17:04 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-10-02 03:22:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-10-02 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-10-02 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-10-02 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-10-02 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-10-02 03:22:27 +0000"
     },
     "done": true
   },
@@ -5245,13 +5263,19 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
-      "has_item": "2025-10-02 03:17:04 +0000"
+      "has_item": "2025-10-02 03:22:27 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/redstone_contact": {
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-10-02 03:22:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-10-02 03:22:27 +0000"
     },
@@ -5263,33 +5287,141 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/flywheel": {
+  "create:mechanical_crafter": {
     "criteria": {
-      "has_item": "2025-10-02 03:17:04 +0000"
+      "0": "2025-10-02 03:36:21 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
-      "has_item": "2025-10-02 03:22:27 +0000"
+      "has_sign": "2025-10-02 22:40:18 +0000"
     },
     "done": true
   },
-  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
     "criteria": {
-      "has_ingots_brass": "2025-10-02 03:17:04 +0000"
+      "has_sign": "2025-10-02 22:40:18 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+  "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
-      "has_item": "2025-10-02 03:17:04 +0000"
+      "has_sign": "2025-10-02 22:40:18 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
     "criteria": {
-      "has_item": "2025-10-02 03:22:27 +0000"
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-10-02 22:40:18 +0000"
     },
     "done": true
   },

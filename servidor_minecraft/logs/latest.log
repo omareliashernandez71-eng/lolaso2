@@ -156,3 +156,8 @@
 [02Oct2025 22:38:07.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
 [02Oct2025 22:38:08.981] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
 [02Oct2025 22:38:08.982] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[02Oct2025 22:40:57.296] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player xClas06 just tried to change non-editable sign
+[02Oct2025 22:43:33.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Timed out
+[02Oct2025 22:43:33.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[02Oct2025 22:43:33.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[02Oct2025 22:45:05.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [The Andesite Age]

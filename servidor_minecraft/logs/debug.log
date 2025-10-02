@@ -5727,3 +5727,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 22:38:09.098] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of xClas06: {disabled=false, disconnected=false, uuid=3dd7239d-b3eb-39bc-adfc-5add3f237d18, name=xClas06, group=null}
 [02Oct2025 22:39:02.451] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of xClas06: {disabled=false, disconnected=false, uuid=3dd7239d-b3eb-39bc-adfc-5add3f237d18, name=xClas06, group=496c627d-60ff-4a27-86bf-2286f3c9e462}
 [02Oct2025 22:39:03.604] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of xClas06: {disabled=false, disconnected=false, uuid=3dd7239d-b3eb-39bc-adfc-5add3f237d18, name=xClas06, group=496c627d-60ff-4a27-86bf-2286f3c9e462}
+[02Oct2025 22:40:57.296] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player xClas06 just tried to change non-editable sign
+[02Oct2025 22:42:28.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 22:42:28.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 22:43:33.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Timed out
+[02Oct2025 22:43:33.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[02Oct2025 22:43:33.497] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of xClas06
+[02Oct2025 22:43:33.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[02Oct2025 22:45:05.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [The Andesite Age]
+[02Oct2025 22:47:28.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 22:47:28.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
