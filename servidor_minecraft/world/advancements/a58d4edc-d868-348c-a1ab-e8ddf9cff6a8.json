@@ -3888,6 +3888,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_helmet": {
+    "criteria": {
+      "has_leaves": "2025-10-02 21:15:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_press": {
     "criteria": {
       "has_item": "2025-10-02 21:05:19 +0000"
@@ -3921,6 +3927,12 @@
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2025-10-02 21:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-10-02 21:15:26 +0000"
     },
     "done": true
   },
@@ -4332,6 +4344,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_leggings": {
+    "criteria": {
+      "has_leaves": "2025-10-02 21:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-10-02 21:03:28 +0000"
@@ -4362,6 +4380,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_chestplate": {
+    "criteria": {
+      "has_leaves": "2025-10-02 21:15:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-10-02 20:08:31 +0000"
@@ -4383,6 +4407,12 @@
   "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-10-02 20:51:44 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_boots": {
+    "criteria": {
+      "has_leaves": "2025-10-02 21:15:32 +0000"
     },
     "done": true
   },

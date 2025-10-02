@@ -5520,3 +5520,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 21:05:08.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [The Andesite Age]
 [02Oct2025 21:07:28.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Oct2025 21:07:28.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:12:28.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:12:28.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 21:15:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Cover Me with Diamonds]
+[02Oct2025 21:17:28.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 21:17:28.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

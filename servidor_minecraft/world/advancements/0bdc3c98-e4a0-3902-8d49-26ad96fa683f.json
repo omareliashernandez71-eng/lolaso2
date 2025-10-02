@@ -4550,6 +4550,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_helmet": {
+    "criteria": {
+      "has_leaves": "2025-10-02 21:12:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-10-02 20:12:12 +0000"
@@ -4826,6 +4832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-10-02 21:13:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
@@ -5042,6 +5054,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_leggings": {
+    "criteria": {
+      "has_leaves": "2025-10-02 21:12:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/end_stone_mine": {
     "criteria": {
       "has_mine": "2025-10-02 20:16:28 +0000"
@@ -5096,6 +5114,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/combat/leaf_chestplate": {
+    "criteria": {
+      "has_leaves": "2025-10-02 21:12:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/cogwheel": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
@@ -5105,6 +5129,12 @@
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-10-02 20:38:58 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_boots": {
+    "criteria": {
+      "has_leaves": "2025-10-02 21:12:09 +0000"
     },
     "done": true
   },
