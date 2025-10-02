@@ -526,7 +526,8 @@
       "bread": "2025-10-01 00:48:26 +0000",
       "golden_apple": "2025-10-02 00:19:57 +0000",
       "rotten_flesh": "2025-10-02 01:07:50 +0000",
-      "glow_berries": "2025-10-01 01:05:51 +0000"
+      "glow_berries": "2025-10-01 01:05:51 +0000",
+      "cooked_chicken": "2025-10-02 01:26:36 +0000"
     },
     "done": false
   },
@@ -3627,6 +3628,18 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-10-02 00:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-10-02 01:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-10-02 01:27:38 +0000"
     },
     "done": true
   },

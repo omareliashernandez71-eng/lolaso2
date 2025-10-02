@@ -2578,3 +2578,25 @@
 [02Oct2025 01:20:58.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
 [02Oct2025 01:20:58.842] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
 [02Oct2025 01:21:03.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3458, y=79, z=112} BlockPos{x=-3457, y=76, z=112}
+[02Oct2025 01:24:07.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3443, y=75, z=93} BlockPos{x=-3442, y=75, z=93}
+[02Oct2025 01:24:08.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3443, y=75, z=93} BlockPos{x=-3441, y=75, z=94}
+[02Oct2025 01:24:09.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3443, y=75, z=93} BlockPos{x=-3441, y=75, z=92}
+[02Oct2025 01:25:20.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> omaarrrrrrrrrrrrrrrrrrrrrrrr
+[02Oct2025 01:25:24.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> queeeeee
+[02Oct2025 01:25:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> mira dc
+[02Oct2025 01:25:40.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> si vi
+[02Oct2025 01:25:49.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> esta cabron bro
+[02Oct2025 01:26:01.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> las trituradoras solo son 32 de andesita
+[02Oct2025 01:26:09.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> si
+[02Oct2025 01:26:14.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> nos llevara rato pero lo conseguiremos con la prensa
+[02Oct2025 01:28:14.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! 8.514308119468751,-2.2468000194787976,-4.918387499898387
+[02Oct2025 01:31:07.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -7.473065268986829,-1.9986640208878583,-6.401733659422021
+[02Oct2025 01:32:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> pueden dormir>
+[02Oct2025 01:32:59.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ???
+[02Oct2025 01:33:37.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si
+[02Oct2025 01:34:38.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -7.252547062606936,-1.252203340253729,-7.234613241943677
+[02Oct2025 01:34:55.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! 9.818543767845313,-0.5800000131130219,2.900352842744539
+[02Oct2025 01:35:37.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Hot Stuff]
+[02Oct2025 01:37:55.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[02Oct2025 01:37:55.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[02Oct2025 01:37:55.018] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
