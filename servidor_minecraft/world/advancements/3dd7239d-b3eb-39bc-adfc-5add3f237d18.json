@@ -4630,5 +4630,11 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-10-02 00:12:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
