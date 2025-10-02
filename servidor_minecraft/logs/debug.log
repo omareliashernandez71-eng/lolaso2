@@ -5737,3 +5737,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Oct2025 22:45:05.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [The Andesite Age]
 [02Oct2025 22:47:28.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Oct2025 22:47:28.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 22:52:28.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 22:52:28.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Oct2025 22:54:16.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[02Oct2025 22:54:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[02Oct2025 22:54:16.643] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of emilghj
+[02Oct2025 22:54:16.643] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
+[02Oct2025 22:57:28.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Oct2025 22:57:28.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

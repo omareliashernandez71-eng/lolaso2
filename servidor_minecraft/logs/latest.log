@@ -161,3 +161,6 @@
 [02Oct2025 22:43:33.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
 [02Oct2025 22:43:33.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
 [02Oct2025 22:45:05.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 has made the advancement [The Andesite Age]
+[02Oct2025 22:54:16.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
+[02Oct2025 22:54:16.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
+[02Oct2025 22:54:16.643] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
