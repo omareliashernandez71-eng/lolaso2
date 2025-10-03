@@ -1,76 +1,106 @@
-[03Oct2025 01:08:04.073] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[03Oct2025 01:08:04.077] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[03Oct2025 01:08:04.504] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[03Oct2025 01:08:04.555] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/lolaso2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[03Oct2025 01:08:04.986] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[03Oct2025 01:08:04.987] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03Oct2025 01:08:04.988] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03Oct2025 01:08:04.990] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03Oct2025 01:08:05.322] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[03Oct2025 01:08:07.985] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03Oct2025 01:08:08.176] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[03Oct2025 01:08:08.179] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[03Oct2025 01:08:10.163] [main/WARN] [mixin/]: Error loading class: com/theishiopian/parrying/Entity/DaggerEntity (java.lang.ClassNotFoundException: com.theishiopian.parrying.Entity.DaggerEntity)
-[03Oct2025 01:08:10.165] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/guns/common/Gun (java.lang.ClassNotFoundException: com.mrcrayfish.guns.common.Gun)
-[03Oct2025 01:08:10.167] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/guns/item/GunItem (java.lang.ClassNotFoundException: com.mrcrayfish.guns.item.GunItem)
-[03Oct2025 01:08:10.169] [main/WARN] [mixin/]: Error loading class: slimeknights/tconstruct/tools/item/ModifiableBowItem (java.lang.ClassNotFoundException: slimeknights.tconstruct.tools.item.ModifiableBowItem)
-[03Oct2025 01:08:10.170] [main/WARN] [mixin/]: Error loading class: slimeknights/tconstruct/tools/item/ModifiableCrossbowItem (java.lang.ClassNotFoundException: slimeknights.tconstruct.tools.item.ModifiableCrossbowItem)
-[03Oct2025 01:08:10.175] [main/WARN] [mixin/]: Error loading class: com/theishiopian/parrying/Entity/SpearEntity (java.lang.ClassNotFoundException: com.theishiopian.parrying.Entity.SpearEntity)
-[03Oct2025 01:08:10.178] [main/WARN] [mixin/]: Error loading class: net/bettercombat/logic/WeaponRegistry (java.lang.ClassNotFoundException: net.bettercombat.logic.WeaponRegistry)
-[03Oct2025 01:08:10.348] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03Oct2025 01:08:16.042] [main/WARN] [mixin/]: @Final field f_35975_:Lnet/minecraft/core/NonNullList; in weaponleveling-common.mixins.json:InventoryMixin should be final
-[03Oct2025 01:08:17.288] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[03Oct2025 01:08:17.351] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[03Oct2025 01:08:17.355] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
-[03Oct2025 01:08:17.617] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[03Oct2025 01:08:17.618] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[03Oct2025 01:08:17.621] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[03Oct2025 01:08:17.622] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[03Oct2025 01:08:17.628] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[03Oct2025 01:08:17.631] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[03Oct2025 01:08:17.632] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[03Oct2025 01:08:17.633] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[03Oct2025 01:08:18.210] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[03Oct2025 01:08:18.211] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[03Oct2025 01:08:18.213] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[03Oct2025 01:08:21.698] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/lolaso2/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
-[03Oct2025 01:08:21.851] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 20
-[03Oct2025 01:08:21.976] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[03Oct2025 01:08:21.987] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[03Oct2025 01:08:21.990] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[03Oct2025 01:08:21.991] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[03Oct2025 01:08:22.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[03Oct2025 01:08:22.170] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[03Oct2025 01:08:22.171] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[03Oct2025 01:08:22.172] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[03Oct2025 01:08:22.172] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[03Oct2025 01:08:23.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
-[03Oct2025 01:08:23.017] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[03Oct2025 01:08:23.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[03Oct2025 01:08:23.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[03Oct2025 01:08:23.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.6.4 Target: null
-[03Oct2025 01:08:23.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Oct2025 01:08:23.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[03Oct2025 01:08:25.272] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Oct2025 01:08:25.317] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
-net.minecraft.util.DirectoryLock$LockException: /workspaces/lolaso2/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:404) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.world.level.storage.LevelStorageSource.m_289864_(LevelStorageSource.java:342) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at net.minecraft.server.Main.main(Main.java:141) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
-	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[03Oct2025 18:58:14.918] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[03Oct2025 18:58:14.922] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[03Oct2025 18:58:17.500] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Oct2025 18:58:17.692] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/lolaso2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Oct2025 18:58:18.102] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[03Oct2025 18:58:18.105] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Oct2025 18:58:18.106] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Oct2025 18:58:18.107] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Oct2025 18:58:18.580] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[03Oct2025 18:58:20.940] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Oct2025 18:58:21.046] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[03Oct2025 18:58:21.049] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03Oct2025 18:58:22.288] [main/WARN] [mixin/]: Error loading class: com/theishiopian/parrying/Entity/DaggerEntity (java.lang.ClassNotFoundException: com.theishiopian.parrying.Entity.DaggerEntity)
+[03Oct2025 18:58:22.290] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/guns/common/Gun (java.lang.ClassNotFoundException: com.mrcrayfish.guns.common.Gun)
+[03Oct2025 18:58:22.291] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/guns/item/GunItem (java.lang.ClassNotFoundException: com.mrcrayfish.guns.item.GunItem)
+[03Oct2025 18:58:22.293] [main/WARN] [mixin/]: Error loading class: slimeknights/tconstruct/tools/item/ModifiableBowItem (java.lang.ClassNotFoundException: slimeknights.tconstruct.tools.item.ModifiableBowItem)
+[03Oct2025 18:58:22.294] [main/WARN] [mixin/]: Error loading class: slimeknights/tconstruct/tools/item/ModifiableCrossbowItem (java.lang.ClassNotFoundException: slimeknights.tconstruct.tools.item.ModifiableCrossbowItem)
+[03Oct2025 18:58:22.296] [main/WARN] [mixin/]: Error loading class: com/theishiopian/parrying/Entity/SpearEntity (java.lang.ClassNotFoundException: com.theishiopian.parrying.Entity.SpearEntity)
+[03Oct2025 18:58:22.298] [main/WARN] [mixin/]: Error loading class: net/bettercombat/logic/WeaponRegistry (java.lang.ClassNotFoundException: net.bettercombat.logic.WeaponRegistry)
+[03Oct2025 18:58:22.544] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Oct2025 18:58:28.296] [main/WARN] [mixin/]: @Final field f_35975_:Lnet/minecraft/core/NonNullList; in weaponleveling-common.mixins.json:InventoryMixin should be final
+[03Oct2025 18:58:29.170] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[03Oct2025 18:58:29.214] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[03Oct2025 18:58:29.222] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.6 initializing! Commit hash: 338bfa0aec952fa51656e8f61bd621ca9b3b2e00
+[03Oct2025 18:58:29.515] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Oct2025 18:58:29.521] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03Oct2025 18:58:29.526] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03Oct2025 18:58:29.529] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03Oct2025 18:58:29.530] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03Oct2025 18:58:29.537] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03Oct2025 18:58:29.538] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[03Oct2025 18:58:29.539] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[03Oct2025 18:58:30.070] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[03Oct2025 18:58:30.072] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[03Oct2025 18:58:30.073] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[03Oct2025 18:58:32.971] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 20
+[03Oct2025 18:58:33.124] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[03Oct2025 18:58:33.128] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[03Oct2025 18:58:33.128] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[03Oct2025 18:58:33.128] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[03Oct2025 18:58:33.241] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[03Oct2025 18:58:33.240] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03Oct2025 18:58:33.242] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03Oct2025 18:58:33.243] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[03Oct2025 18:58:33.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[03Oct2025 18:58:34.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.18 Target: null
+[03Oct2025 18:58:34.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03Oct2025 18:58:34.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[03Oct2025 18:58:34.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[03Oct2025 18:58:34.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.6.4 Target: null
+[03Oct2025 18:58:34.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Oct2025 18:58:34.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[03Oct2025 18:58:36.326] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Oct2025 18:58:38.038] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/lolaso2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
+[03Oct2025 18:58:38.039] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/lolaso2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
+[03Oct2025 18:58:38.133] [main/INFO] [com.simibubi.create.Create/]: Created 255 recipes which will be injected into the game
+[03Oct2025 18:58:38.146] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
+[03Oct2025 18:58:39.003] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[03Oct2025 18:58:41.011] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[03Oct2025 18:58:41.134] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3293 advancements
+[03Oct2025 18:58:41.142] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[03Oct2025 18:58:41.148] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[03Oct2025 18:58:42.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Oct2025 18:58:42.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Oct2025 18:58:42.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Oct2025 18:58:42.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Oct2025 18:58:42.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Oct2025 18:58:42.904] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Oct2025 18:58:42.981] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Oct2025 18:58:42.982] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Oct2025 18:58:42.982] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Oct2025 18:58:42.982] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Oct2025 18:58:43.064] [Server thread/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03Oct2025 18:58:43.065] [Server thread/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03Oct2025 18:58:43.110] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03Oct2025 18:58:43.113] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03Oct2025 18:58:43.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Oct2025 18:58:46.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Oct2025 18:58:47.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Oct2025 18:58:47.477] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Oct2025 18:58:47.478] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Oct2025 18:58:47.921] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Oct2025 18:58:48.486] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Oct2025 18:58:49.470] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Oct2025 18:58:49.471] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Oct2025 18:58:49.951] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Oct2025 18:58:50.916] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[03Oct2025 18:58:50.931] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[03Oct2025 18:58:51.418] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[03Oct2025 18:58:51.917] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[03Oct2025 18:58:52.416] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[03Oct2025 18:58:52.892] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6476 ms
+[03Oct2025 18:58:52.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.899s)! For help, type "help"
+[03Oct2025 18:58:52.945] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Oct2025 18:58:52.950] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[03Oct2025 18:58:52.952] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03Oct2025 18:58:52.963] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'estate-enclosure.gl.at.ply.gg'
+[03Oct2025 18:58:52.964] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 6712
+[03Oct2025 18:59:50.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xClas06[/127.48.206.10:37101] logged in with entity id 100 at (345.187204461622, 64.0, 572.3612713131853)
+[03Oct2025 18:59:50.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 joined the game
+[03Oct2025 18:59:53.252] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xClas06 (20)
+[03Oct2025 18:59:53.254] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xClas06
+[03Oct2025 18:59:53.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2949ms or 58 ticks behind
+[03Oct2025 18:59:56.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[03Oct2025 18:59:57.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
+[03Oct2025 18:59:57.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
