@@ -10048,3 +10048,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Oct2025 22:28:35.224] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Anubis_11: {disabled=false, disconnected=false, uuid=0bdc3c98-e4a0-3902-8d49-26ad96fa683f, name=Anubis_11, group=null}
 [03Oct2025 22:29:02.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Oct2025 22:29:02.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 22:33:16.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[03Oct2025 22:33:16.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[03Oct2025 22:33:16.222] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anubis_11
+[03Oct2025 22:33:16.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
+[03Oct2025 22:33:16.231] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.249] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.274] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.290] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.307] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.333] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.351] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.371] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.392] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.409] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.430] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.447] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.470] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.487] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.508] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.532] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.568] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.591] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.611] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.634] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.649] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:33:16.680] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 0bdc3c98-e4a0-3902-8d49-26ad96fa683f does not have a secret
+[03Oct2025 22:34:02.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 22:34:02.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Oct2025 22:39:02.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Oct2025 22:39:02.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

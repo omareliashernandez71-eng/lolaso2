@@ -670,3 +670,6 @@
 [03Oct2025 22:28:01.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lolasodildazo lost connection: Disconnected
 [03Oct2025 22:28:01.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo left the game
 [03Oct2025 22:28:01.389] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lolasodildazo
+[03Oct2025 22:33:16.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anubis_11 lost connection: Disconnected
+[03Oct2025 22:33:16.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anubis_11 left the game
+[03Oct2025 22:33:16.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anubis_11
