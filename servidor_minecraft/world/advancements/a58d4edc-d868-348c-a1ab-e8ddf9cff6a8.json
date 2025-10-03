@@ -4606,6 +4606,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-10-03 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-10-03 22:01:08 +0000"
+    },
+    "done": true
+  },
   "create:crushing_wheel": {
     "criteria": {
       "0": "2025-10-03 21:03:03 +0000"
@@ -4618,6 +4630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-10-03 21:29:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-10-03 19:56:53 +0000"
@@ -4627,6 +4645,18 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-10-03 20:18:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-10-03 21:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-10-03 21:29:17 +0000"
     },
     "done": true
   },
