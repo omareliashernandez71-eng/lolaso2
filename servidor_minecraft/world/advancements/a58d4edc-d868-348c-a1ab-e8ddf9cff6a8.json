@@ -4617,5 +4617,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-10-03 20:18:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

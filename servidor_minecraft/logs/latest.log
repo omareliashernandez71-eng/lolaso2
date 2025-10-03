@@ -263,3 +263,42 @@
 [03Oct2025 19:58:05.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> puse lo de pulsar
 [03Oct2025 19:58:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> y nose como se quita
 [03Oct2025 19:58:15.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> dale a la V
+[03Oct2025 20:02:18.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> chicos
+[03Oct2025 20:02:24.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> chicos
+[03Oct2025 20:04:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> bro raul
+[03Oct2025 20:04:05.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> dime
+[03Oct2025 20:04:08.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> unete a grupo un momento
+[03Oct2025 20:05:27.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> netete
+[03Oct2025 20:05:30.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> metete
+[03Oct2025 20:12:08.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.0.101.91:36835] logged in with entity id 19743 at (-3316.300000011921, 31.0, 8.300000011920929)
+[03Oct2025 20:12:08.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[03Oct2025 20:12:09.161] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[03Oct2025 20:12:09.162] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[03Oct2025 20:12:12.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[03Oct2025 20:12:13.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[03Oct2025 20:12:13.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[03Oct2025 20:13:35.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Diamonds!]
+[03Oct2025 20:13:43.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Suit Up]
+[03Oct2025 20:14:02.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> duerman nigger
+[03Oct2025 20:14:11.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> no puedo perrita
+[03Oct2025 20:14:13.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> omar esta afk
+[03Oct2025 20:15:57.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
+[03Oct2025 20:15:57.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
+[03Oct2025 20:15:57.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
+[03Oct2025 20:17:08.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> duerman
+[03Oct2025 20:17:22.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 moved too quickly! -4.788136891291288,2.7800000607967377,-8.495864254510266
+[03Oct2025 20:17:43.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> falta zarek
+[03Oct2025 20:17:43.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> zarek salte 1 segundo bro
+[03Oct2025 20:17:53.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> voy
+[03Oct2025 20:17:56.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[03Oct2025 20:17:56.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[03Oct2025 20:17:56.639] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[03Oct2025 20:18:00.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> jeremy tengo 4 stack de andesita
+[03Oct2025 20:18:05.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> igual bro
+[03Oct2025 20:18:08.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> voy por 5
+[03Oct2025 20:18:19.336] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6571159a[id=<null>,name=megatuber06,properties={},legacy=false] (/127.0.101.91:57129) lost connection: Disconnected
+[03Oct2025 20:18:30.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> que me das por 6 stack
+[03Oct2025 20:18:39.888] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@372d2dd[id=<null>,name=megatuber06,properties={},legacy=false] (/127.0.101.91:35931) lost connection: Disconnected
+[03Oct2025 20:18:43.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> no necesito
+[03Oct2025 20:18:50.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> tengo mucho
+[03Oct2025 20:19:01.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> dime
