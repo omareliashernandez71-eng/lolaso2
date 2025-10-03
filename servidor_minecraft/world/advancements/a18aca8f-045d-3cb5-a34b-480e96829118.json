@@ -903,7 +903,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-10-01 00:45:19 +0000",
       "minecraft:spider": "2025-10-01 01:30:39 +0000",
-      "minecraft:zombie": "2025-10-01 00:25:11 +0000"
+      "minecraft:zombie": "2025-10-01 00:25:11 +0000",
+      "minecraft:zombie_villager": "2025-10-03 19:49:42 +0000"
     },
     "done": false
   },
@@ -2590,6 +2591,36 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-10-02 19:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-10-03 19:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-10-03 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-10-03 19:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-10-03 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-10-03 19:52:23 +0000"
     },
     "done": true
   },
