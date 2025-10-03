@@ -521,8 +521,10 @@
       "minecraft:beach": "2025-10-01 00:32:59 +0000",
       "minecraft:river": "2025-10-01 00:18:53 +0000",
       "minecraft:dripstone_caves": "2025-10-01 00:53:14 +0000",
+      "minecraft:snowy_taiga": "2025-10-03 22:25:59 +0000",
       "minecraft:swamp": "2025-10-01 00:14:36 +0000",
       "minecraft:forest": "2025-10-01 02:34:03 +0000",
+      "minecraft:snowy_beach": "2025-10-03 22:26:57 +0000",
       "minecraft:plains": "2025-10-01 00:19:44 +0000"
     },
     "done": false
@@ -607,6 +609,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-10-03 22:17:57 +0000",
       "chicken": "2025-10-02 21:58:33 +0000",
       "cooked_mutton": "2025-10-02 22:12:12 +0000",
       "sweet_berries": "2025-10-02 21:54:13 +0000",
@@ -713,7 +716,9 @@
       "minecraft:skeleton": "2025-10-01 01:07:39 +0000",
       "minecraft:spider": "2025-10-01 01:28:28 +0000",
       "minecraft:creeper": "2025-10-01 01:08:32 +0000",
+      "minecraft:slime": "2025-10-03 22:25:01 +0000",
       "minecraft:zombified_piglin": "2025-10-02 22:34:19 +0000",
+      "minecraft:witch": "2025-10-03 22:15:30 +0000",
       "minecraft:silverfish": "2025-10-01 20:12:20 +0000",
       "minecraft:zombie": "2025-10-01 00:22:53 +0000",
       "minecraft:zombie_villager": "2025-10-02 22:36:02 +0000"
@@ -5838,6 +5843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-10-03 22:15:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-10-03 20:46:18 +0000"
@@ -5865,6 +5876,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-10-03 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-10-03 22:26:22 +0000"
     },
     "done": true
   },
@@ -5970,6 +5987,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-10-03 22:25:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-10-03 20:47:40 +0000"
@@ -5979,6 +6002,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-10-03 21:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-10-03 22:25:11 +0000"
     },
     "done": true
   },
@@ -6003,6 +6032,12 @@
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-10-03 20:46:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-10-03 22:26:14 +0000"
     },
     "done": true
   },
@@ -6054,6 +6089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-10-03 22:15:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-10-03 20:47:40 +0000"
@@ -6075,6 +6116,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-10-03 19:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-10-03 22:26:22 +0000"
     },
     "done": true
   },
@@ -6132,6 +6179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-10-03 22:25:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-10-03 20:47:40 +0000"
@@ -6165,6 +6218,12 @@
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-10-03 20:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-10-03 22:25:11 +0000"
     },
     "done": true
   },

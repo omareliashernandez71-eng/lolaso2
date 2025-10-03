@@ -645,3 +645,28 @@
 [03Oct2025 22:09:36.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lolasodildazo lost connection: Disconnected
 [03Oct2025 22:09:36.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo left the game
 [03Oct2025 22:09:36.838] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lolasodildazo
+[03Oct2025 22:13:19.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lolasodildazo[/127.114.103.235:43401] logged in with entity id 116050 at (1622.202534958683, 123.0, 1466.8890827199773)
+[03Oct2025 22:13:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo joined the game
+[03Oct2025 22:13:20.977] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lolasodildazo (20)
+[03Oct2025 22:13:20.977] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lolasodildazo
+[03Oct2025 22:13:26.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> raul bro
+[03Oct2025 22:13:28.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> vc
+[03Oct2025 22:13:31.600] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[03Oct2025 22:13:32.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0b1b7d6f-cd28-343a-962c-6daa6555dda2
+[03Oct2025 22:13:32.605] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lolasodildazo (0b1b7d6f-cd28-343a-962c-6daa6555dda2) successfully connected to voice chat
+[03Oct2025 22:13:45.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> voy
+[03Oct2025 22:14:07.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[03Oct2025 22:21:32.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[03Oct2025 22:21:32.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[03Oct2025 22:21:32.501] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[03Oct2025 22:21:34.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> s
+[03Oct2025 22:23:08.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/116223, l='ServerLevel[world]', x=1540.79, y=119.00, z=1442.30] died, message: 'Nitwit was slain by Zombie'
+[03Oct2025 22:23:16.030] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Climatologist'/116224, l='ServerLevel[world]', x=1539.59, y=119.00, z=1442.70] died, message: 'Climatologist was slain by Zombie'
+[03Oct2025 22:23:23.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/116222, l='ServerLevel[world]', x=1539.71, y=119.00, z=1440.40] died, message: 'Villager was slain by Zombie'
+[03Oct2025 22:26:24.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> voy a poner los audifono a cargar
+[03Oct2025 22:26:27.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> no voy a poder hablar
+[03Oct2025 22:26:30.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lolasodildazo> dile a omar cuando vuevla
+[03Oct2025 22:26:31.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anubis_11> tt
+[03Oct2025 22:28:01.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lolasodildazo lost connection: Disconnected
+[03Oct2025 22:28:01.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lolasodildazo left the game
+[03Oct2025 22:28:01.389] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lolasodildazo

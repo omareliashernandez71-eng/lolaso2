@@ -3218,6 +3218,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2025-10-03 22:11:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-10-03 22:05:00 +0000"
@@ -3782,6 +3788,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2025-10-03 22:11:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-10-03 20:59:26 +0000"
@@ -4049,6 +4061,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-03 21:57:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2025-10-03 22:11:33 +0000"
     },
     "done": true
   },
