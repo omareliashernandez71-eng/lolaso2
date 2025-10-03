@@ -114,3 +114,49 @@
 [03Oct2025 19:13:48.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
 [03Oct2025 19:13:49.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dd7239d-b3eb-39bc-adfc-5add3f237d18
 [03Oct2025 19:13:49.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xClas06 (3dd7239d-b3eb-39bc-adfc-5add3f237d18) successfully connected to voice chat
+[03Oct2025 19:32:24.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.0.101.91:35141] logged in with entity id 6141 at (-3356.699999988079, 47.0, 22.672619702714375)
+[03Oct2025 19:32:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[03Oct2025 19:32:26.367] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
+[03Oct2025 19:32:26.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[03Oct2025 19:32:26.368] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[03Oct2025 19:32:26.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[03Oct2025 19:32:26.412] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Oct2025 19:33:01.878] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4801a321[id=<null>,name=megatuber06,properties={},legacy=false] (/127.0.101.91:34517) lost connection: Disconnected
+[03Oct2025 19:33:14.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.0.101.91:40409] logged in with entity id 6269 at (-3356.699999988079, 47.0, 22.672619702714375)
+[03Oct2025 19:33:14.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[03Oct2025 19:33:15.510] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[03Oct2025 19:33:15.510] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[03Oct2025 19:33:22.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> hola broski
+[03Oct2025 19:33:35.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[03Oct2025 19:33:36.548] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[03Oct2025 19:33:36.549] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[03Oct2025 19:33:37.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> klk
+[03Oct2025 19:33:41.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> como esta broski
+[03Oct2025 19:33:44.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[03Oct2025 19:33:44.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[03Oct2025 19:33:44.131] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[03Oct2025 19:33:44.195] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Oct2025 19:34:28.573] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15c1b193[id=<null>,name=megatuber06,properties={},legacy=false] (/127.0.101.91:59807) lost connection: Disconnected
+[03Oct2025 19:34:49.128] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@781a53b0[id=<null>,name=megatuber06,properties={},legacy=false] (/127.0.101.91:60531) lost connection: Disconnected
+[03Oct2025 19:35:02.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.0.101.91:50551] logged in with entity id 6841 at (-3356.638672417737, 47.0, 22.544456970057663)
+[03Oct2025 19:35:02.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[03Oct2025 19:35:03.001] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[03Oct2025 19:35:03.002] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[03Oct2025 19:35:06.224] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a18aca8f-045d-3cb5-a34b-480e96829118
+[03Oct2025 19:35:09.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a18aca8f-045d-3cb5-a34b-480e96829118
+[03Oct2025 19:35:09.191] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player megatuber06 (a18aca8f-045d-3cb5-a34b-480e96829118) successfully connected to voice chat
+[03Oct2025 19:35:15.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> klk
+[03Oct2025 19:35:16.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> por que te sales y entras
+[03Oct2025 19:35:29.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> klk
+[03Oct2025 19:35:32.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[03Oct2025 19:35:32.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[03Oct2025 19:35:32.334] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
+[03Oct2025 19:35:32.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> kl
+[03Oct2025 19:35:35.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> klk
+[03Oct2025 19:37:17.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.0.101.91:46823] logged in with entity id 7658 at (-3356.638672417737, 47.0, 22.544456970057663)
+[03Oct2025 19:37:17.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
+[03Oct2025 19:37:19.650] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
+[03Oct2025 19:37:19.650] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
+[03Oct2025 19:37:47.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Timed out
+[03Oct2025 19:37:47.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
+[03Oct2025 19:37:47.331] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
